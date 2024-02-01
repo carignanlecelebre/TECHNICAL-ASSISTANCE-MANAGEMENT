@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="796ef6b6977f7590601fb998c253af7b" sys_domain="global" table="x_982322_technic_2_sosqtdsr_tam" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 21:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>466ef6b6977f7590601fb998c253afa4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_sosqtdsr_tam" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">796ef6b6977f7590601fb998c253af7b</sys_ui_form>
+            <sys_ui_section caption="Dealer Issue Detection" display_value="Dealer Issue Detection" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">f29b76be973f7590601fb998c253af6d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 21:07:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 21:15:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e30cf7a977f7590601fb998c253afab</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_sosqtdsr_tam" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">796ef6b6977f7590601fb998c253af7b</sys_ui_form>
+            <sys_ui_section caption="Dealer" display_value="Dealer" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">e6308f7a977f7590601fb998c253afd4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 21:15:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 21:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c26ef6b6977f7590601fb998c253afa5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_sosqtdsr_tam" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">796ef6b6977f7590601fb998c253af7b</sys_ui_form>
+            <sys_ui_section caption="Vehicle" display_value="Vehicle" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">756ef6b6977f7590601fb998c253af78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 21:15:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 21:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>466ef6b6977f7590601fb998c253afa9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_sosqtdsr_tam" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">796ef6b6977f7590601fb998c253af7b</sys_ui_form>
+            <sys_ui_section caption="Customer symptom" display_value="Customer symptom" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">756ef6b6977f7590601fb998c253af79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 21:15:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 21:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>466ef6b6977f7590601fb998c253afad</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_sosqtdsr_tam" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">796ef6b6977f7590601fb998c253af7b</sys_ui_form>
+            <sys_ui_section caption="Diagnostic" display_value="Diagnostic" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">316ef6b6977f7590601fb998c253af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 21:15:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 21:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>026ef6b6977f7590601fb998c253afbe</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_sosqtdsr_tam" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">796ef6b6977f7590601fb998c253af7b</sys_ui_form>
+            <sys_ui_section caption="Intervention" display_value="Intervention" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="Default view">f96ef6b6977f7590601fb998c253af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 21:15:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_982322_technic_2_sosqtdsr_tam</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 21:07:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>796ef6b6977f7590601fb998c253af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_technic_2_sosqtdsr_tam</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_form_sections_796ef6b6977f7590601fb998c253af7b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 21:07:10</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
