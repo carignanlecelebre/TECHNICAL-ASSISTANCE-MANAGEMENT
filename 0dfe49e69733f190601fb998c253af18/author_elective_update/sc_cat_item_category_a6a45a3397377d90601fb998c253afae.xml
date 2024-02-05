@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Confidential code">7f64123397377d90601fb998c253af7e</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-24 20:38:44</sys_created_on>
+        <sys_id>a6a45a3397377d90601fb998c253afae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Confidential code</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sc_cat_item_category_a6a45a3397377d90601fb998c253afae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-24 20:38:44</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sc_cat_item_category_a6a45a3397377d90601fb998c253afae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Confidential code">7f64123397377d90601fb998c253af7e</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-24 20:38:44</sys_created_on><sys_id>a6a45a3397377d90601fb998c253afae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Confidential code</sys_name><sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package><sys_policy/><sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope><sys_update_name>sc_cat_item_category_a6a45a3397377d90601fb998c253afae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-24 20:38:44</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1229115133</payload_hash>
+        <record_name>Can We Help You?.Confidential code</record_name>
+        <reverted_from/>
+        <source>89fe49e69733f190601fb998c253af1d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-24 20:38:44</sys_created_on>
+        <sys_id>a2a45a3397377d90601fb998c253afb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d3d3251580000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-24 20:38:44</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>e2a45a3318377d90ae675adab9c6c6b2</update_guid>
+        <update_guid_history>e2a45a3318377d90ae675adab9c6c6b2:1229115133</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Confidential code">b7261ef397377d90601fb998c253af7a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-24 20:45:22</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>9dbe8edcc1284ad3b79e8101fb525849</sys_id>
+        <sys_metadata>a6a45a3397377d90601fb998c253afae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Confidential code</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_a6a45a3397377d90601fb998c253afae</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a6a45a3397377d90601fb998c253afae">a2a45a3397377d90601fb998c253afb3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-24 20:45:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

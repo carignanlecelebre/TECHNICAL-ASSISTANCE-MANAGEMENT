@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 18:10:52</sys_created_on>
+        <sys_id>de8ffa5633cc02141b9a772ae0261f4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Recent Search Reader Group for Starter Workspace - Workspace Search">5a8ffa56b2cc02140d6574f28eb2744c</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="User History Reader">1ee419777320001052c7d5fdbdf6a7ad</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_de8ffa5633cc02141b9a772ae0261f4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 18:10:52</sys_updated_on>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>
