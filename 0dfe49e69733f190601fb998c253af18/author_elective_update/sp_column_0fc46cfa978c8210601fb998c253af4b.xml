@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>3</order>
+        <semantic_tag/>
+        <size>3</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">4bc46cfa978c8210601fb998c253af44</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 20:11:44</sys_created_on>
+        <sys_id>0fc46cfa978c8210601fb998c253af4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sp_column_0fc46cfa978c8210601fb998c253af4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 20:11:44</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sp_column_0fc46cfa978c8210601fb998c253af4b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>3</order><semantic_tag/><size>3</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">4bc46cfa978c8210601fb998c253af44</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-02 20:11:44</sys_created_on><sys_id>0fc46cfa978c8210601fb998c253af4b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>3</sys_name><sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package><sys_policy/><sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope><sys_update_name>sp_column_0fc46cfa978c8210601fb998c253af4b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-02 20:11:44</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>2033685540</payload_hash>
+        <record_name>3</record_name>
+        <reverted_from/>
+        <source>f25688a597c84ad0601fb998c253af57</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 20:11:44</sys_created_on>
+        <sys_id>cbc46cfa978c8210601fb998c253af4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d6b72d73b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 20:11:44</sys_updated_on>
+        <type>Column</type>
+        <update_guid>8fc46cfa198c82108dc14e3bd8fe714c</update_guid>
+        <update_guid_history>8fc46cfa198c82108dc14e3bd8fe714c:2033685540</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="3">5a35a83e978c8210601fb998c253af9f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 20:13:36</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>0f8fbc8d0a97492195ef2b1af48976c1</sys_id>
+        <sys_metadata>0fc46cfa978c8210601fb998c253af4b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sp_column_0fc46cfa978c8210601fb998c253af4b</sys_update_name>
+        <sys_update_version display_value="sp_column_0fc46cfa978c8210601fb998c253af4b">cbc46cfa978c8210601fb998c253af4d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 20:13:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

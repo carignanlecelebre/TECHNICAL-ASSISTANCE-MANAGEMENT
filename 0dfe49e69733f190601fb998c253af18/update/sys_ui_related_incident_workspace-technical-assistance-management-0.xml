@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="incident" version="2" view="workspace-technical-assistance-management-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace Technical Assistance Management 0" name="incident" related_list="NULL" sys_domain="global" view="da8ffa569bcc0214c16fd6c205037747">a49f329697cc0214601fb998c253af40</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 18:11:01</sys_created_on>
+            <sys_id>ac9f329697cc0214601fb998c253af41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 18:11:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace Technical Assistance Management 0" name="incident" related_list="NULL" sys_domain="global" view="da8ffa569bcc0214c16fd6c205037747">a49f329697cc0214601fb998c253af40</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 18:11:01</sys_created_on>
+            <sys_id>e49f329697cc0214601fb998c253af42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 18:11:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace Technical Assistance Management 0" name="incident" related_list="NULL" sys_domain="global" view="da8ffa569bcc0214c16fd6c205037747">a49f329697cc0214601fb998c253af40</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>task_cmdb_ci_service.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 18:11:01</sys_created_on>
+            <sys_id>e89f329697cc0214601fb998c253af42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 18:11:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace Technical Assistance Management 0" name="incident" related_list="NULL" sys_domain="global" view="da8ffa569bcc0214c16fd6c205037747">a49f329697cc0214601fb998c253af40</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>task_service_offering.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 18:11:01</sys_created_on>
+            <sys_id>ec9f329697cc0214601fb998c253af42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 18:11:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace Technical Assistance Management 0" name="incident" related_list="NULL" sys_domain="global" view="da8ffa569bcc0214c16fd6c205037747">a49f329697cc0214601fb998c253af40</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>incident.parent_incident</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 18:11:01</sys_created_on>
+            <sys_id>e09f329697cc0214601fb998c253af43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 18:11:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace Technical Assistance Management 0" name="incident" related_list="NULL" sys_domain="global" view="da8ffa569bcc0214c16fd6c205037747">a49f329697cc0214601fb998c253af40</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>sc_request.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 18:11:01</sys_created_on>
+            <sys_id>e49f329697cc0214601fb998c253af43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 18:11:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace Technical Assistance Management 0" name="incident" related_list="NULL" sys_domain="global" view="da8ffa569bcc0214c16fd6c205037747">a49f329697cc0214601fb998c253af40</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>interaction_related_record.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 18:11:01</sys_created_on>
+            <sys_id>e89f329697cc0214601fb998c253af43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 18:11:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace Technical Assistance Management 0" name="incident" related_list="NULL" sys_domain="global" view="da8ffa569bcc0214c16fd6c205037747">a49f329697cc0214601fb998c253af40</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>em_alert.incident</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 18:11:01</sys_created_on>
+            <sys_id>ec9f329697cc0214601fb998c253af43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 18:11:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Incident - Workspace Technical Assistance Management 0</calculated_name>
+            <filter/>
+            <name>incident</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 18:11:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a49f329697cc0214601fb998c253af40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Incident - Workspace Technical Assistance Management 0</sys_name>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_related_incident_workspace-technical-assistance-management-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 18:11:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Technical Assistance Management 0" name="workspace-technical-assistance-management-0">da8ffa569bcc0214c16fd6c205037747</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
