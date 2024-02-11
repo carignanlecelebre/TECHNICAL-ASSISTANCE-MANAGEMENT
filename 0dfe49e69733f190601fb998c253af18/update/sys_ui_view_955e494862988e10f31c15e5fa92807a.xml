@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>2_custom_portal_approval_x_982322_technic_2</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-02-06 20:25:41</sys_created_on>
+        <sys_id>955e494862988e10f31c15e5fa92807a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2_custom_portal_approval_x_982322_technic_2</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ui_view_955e494862988e10f31c15e5fa92807a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-06 20:25:41</sys_updated_on>
+        <title>2_custom_portal_approval_x_982322_technic_2</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
