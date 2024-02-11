@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">d15e4948c0988e1075f54e00852daa49</dataset>
+        <datasource display_value="Custom Portal Landing - Popular articles Datasource">d55e494826988e109fd80f5981773b48</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-02-06 20:25:41</sys_created_on>
+        <sys_id>1d5e494843988e108bc72def3c232f46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_1d5e494843988e108bc72def3c232f46</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-06 20:25:41</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

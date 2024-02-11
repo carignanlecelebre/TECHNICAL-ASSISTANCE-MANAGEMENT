@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">dc8d114c971c8e10601fb998c253af1d</sp_column>
+        <sp_widget display_value="Knowledge Article Helpful">5f599c490be432004ce28ffe15673a5b</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 18:14:41</sys_created_on>
+        <sys_id>c5f931d897144250601fb998c253afd0</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sp_instance_c5f931d897144250601fb998c253afd0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 18:25:03</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"show_star_rating": {
+		"value": "Use system properties",
+		"displayValue": "Use system properties"
+	},
+	"show_percent_helpful": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"helpful_prompt": {
+		"value": "Most rated articles",
+		"displayValue": "Most rated articles"
+	},
+	"feedback_message": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=c5f931d897144250601fb998c253afd0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sp_instance_c5f931d897144250601fb998c253afd0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;dc8d114c971c8e10601fb998c253af1d&lt;/sp_column&gt;&lt;sp_widget display_value="Knowledge Article Helpful"&gt;5f599c490be432004ce28ffe15673a5b&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-02-07 18:14:41&lt;/sys_created_on&gt;&lt;sys_id&gt;c5f931d897144250601fb998c253afd0&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Technical Assistance Management" source="x_982322_technic_2"&gt;0dfe49e69733f190601fb998c253af18&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Technical Assistance Management"&gt;0dfe49e69733f190601fb998c253af18&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_c5f931d897144250601fb998c253afd0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-02-07 18:25:03&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"show_star_rating": {
+		"value": "Use system properties",
+		"displayValue": "Use system properties"
+	},
+	"show_percent_helpful": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"helpful_prompt": {
+		"value": "Most rated articles",
+		"displayValue": "Most rated articles"
+	},
+	"feedback_message": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=c5f931d897144250601fb998c253afd0"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>255459505</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f25688a597c84ad0601fb998c253af57</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 18:25:03</sys_created_on>
+        <sys_id>bc5c715097544250601fb998c253af1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d84d0f5a80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 18:25:03</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>b05c7150c7544250920a626f41acf11d</update_guid>
+        <update_guid_history>b05c7150c7544250920a626f41acf11d:255459505,324cfd1043544250dc6cfa765f3b616d:-16343854,4ddab15cb5144250fc0ce73e8d1322fe:255459505,35ca715c6f14425037642db014b4fb1b:-16343854,e87a351cb11442501929a596509f13d0:255459505,732a31d8b9144250c298c4eda7e90ec5:-16343854,f7f93d989514425065e49f3cafea9d32:-1582420344,8df931d8321442505f801775eeb0bed1:-1633022245</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9441ee1497984250601fb998c253af26</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 21:06:23</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>8be7e577b531407191c918e84ef8dbd9</sys_id>
+        <sys_metadata>c5f931d897144250601fb998c253afd0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sp_instance_c5f931d897144250601fb998c253afd0</sys_update_name>
+        <sys_update_version display_value="sp_instance_c5f931d897144250601fb998c253afd0">bc5c715097544250601fb998c253af1d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 21:06:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
