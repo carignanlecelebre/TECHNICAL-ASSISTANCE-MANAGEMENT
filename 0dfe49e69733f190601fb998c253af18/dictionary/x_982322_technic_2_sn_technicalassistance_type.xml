@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0fc88c8297500210601fb998c253af30" extends="sn_customerservice_case" label="sn_technicalassistance_type" max_length="40" name="x_982322_technic_2_sn_technicalassistance_type" type="collection"/>
+</database>
