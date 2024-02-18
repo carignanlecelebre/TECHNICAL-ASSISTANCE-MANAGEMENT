@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <display_field/>
+        <field_list>number,type,state,short_description,sys_updated_on</field_list>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>2</order>
+        <order_by>number</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">456e27a097580650601fb998c253af35</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 20:55:48</sys_created_on>
+        <sys_id>929bfd1597500210601fb998c253af36</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>My cases </sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sp_instance_table_929bfd1597500210601fb998c253af36</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 21:16:26</sys_updated_on>
+        <table>x_982322_technic_2_tam_technicalassistance_type</table>
+        <title>My cases </title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=929bfd1597500210601fb998c253af36"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sp_instance_table_929bfd1597500210601fb998c253af36</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>primary</color><css/><display_field/><field_list>number,type,state,short_description,sys_updated_on</field_list><filter/><glyph/><id/><maximum_entries>5</maximum_entries><order>2</order><order_by>number</order_by><order_direction>desc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="1">456e27a097580650601fb998c253af35</sp_column><sp_page/><sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-10 20:55:48</sys_created_on><sys_id>929bfd1597500210601fb998c253af36</sys_id><sys_mod_count>10</sys_mod_count><sys_name>My cases </sys_name><sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package><sys_policy/><sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope><sys_update_name>sp_instance_table_929bfd1597500210601fb998c253af36</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-13 21:16:26</sys_updated_on><table>x_982322_technic_2_tam_technicalassistance_type</table><title>My cases </title><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=929bfd1597500210601fb998c253af36"/></record_update>]]></payload>
+        <payload_hash>-1254888110</payload_hash>
+        <record_name>My cases </record_name>
+        <reverted_from/>
+        <source>f25688a597c84ad0601fb998c253af57</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 21:16:26</sys_created_on>
+        <sys_id>ce1dd9529750c210601fb998c253afc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18da454077b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 21:16:26</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>c21dd952ab50c2104f3b3cc098318fc8</update_guid>
+        <update_guid_history>c21dd952ab50c2104f3b3cc098318fc8:-1254888110,ee2cd1de5f10c2106b3402209f6f2f46:-912465231,ed215c0a36900210ca7898fa266272fc:-1254888110,6881029193900210225acd58f24e18f6:-135702715,37710291d09002102f28796f02305c79:-53548380,ac610e51b2900210de2a71932f3a7496:28605955,0b51ca517290021089777f329aac437e:-53548380,a8518a51409002106c984acf712b5141:-135702715,551c31950050021061bb4799ec71a7e1:-53548380,23db3955c25002109fe432350c7b9e9d:-135702715,9a9bfd1519500210a44b351b0771a137:-1074965999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My cases ">5fb330d79798ca10601fb998c253af18</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 20:49:41</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>2f6291a04eda4788aea8c30b70bd5c40</sys_id>
+        <sys_metadata>929bfd1597500210601fb998c253af36</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My cases </sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sp_instance_table_929bfd1597500210601fb998c253af36</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_929bfd1597500210601fb998c253af36">ce1dd9529750c210601fb998c253afc8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 20:49:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

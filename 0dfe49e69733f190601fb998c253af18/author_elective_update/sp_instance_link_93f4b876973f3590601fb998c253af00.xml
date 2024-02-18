@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>success</color>
+        <css/>
+        <glyph>briefcase</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Browse the catalog for the items and services you need</short_description>
+        <size>md</size>
+        <sp_column display_value="1">42f8958c97d88e10601fb998c253afa8</sp_column>
+        <sp_page display_value="did_detail">b03bd13397253110601fb998c253af5d</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-21 11:06:48</sys_created_on>
+        <sys_id>93f4b876973f3590601fb998c253af00</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Request Something</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sp_instance_link_93f4b876973f3590601fb998c253af00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 20:45:51</sys_updated_on>
+        <title>Request Something</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=93f4b876973f3590601fb998c253af00"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sp_instance_link_93f4b876973f3590601fb998c253af00</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;success&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;briefcase&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Browse the catalog for the items and services you need&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;42f8958c97d88e10601fb998c253afa8&lt;/sp_column&gt;&lt;sp_page display_value="did_detail"&gt;b03bd13397253110601fb998c253af5d&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-01-21 11:06:48&lt;/sys_created_on&gt;&lt;sys_id&gt;93f4b876973f3590601fb998c253af00&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;Request Something&lt;/sys_name&gt;&lt;sys_package display_value="Technical Assistance Management" source="x_982322_technic_2"&gt;0dfe49e69733f190601fb998c253af18&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Technical Assistance Management"&gt;0dfe49e69733f190601fb998c253af18&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_93f4b876973f3590601fb998c253af00&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-02-13 20:45:51&lt;/sys_updated_on&gt;&lt;title&gt;Request Something&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=93f4b876973f3590601fb998c253af00"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1294369726</payload_hash>
+        <record_name>Request Something</record_name>
+        <reverted_from/>
+        <source>f25688a597c84ad0601fb998c253af57</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-13 20:45:51</sys_created_on>
+        <sys_id>b11651529710c210601fb998c253af9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18da43804bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-13 20:45:51</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>b51651529b10c210003ed54f1b86f49e</update_guid>
+        <update_guid_history>b51651529b10c210003ed54f1b86f49e:1294369726,8a65d5de62dc8210c8277573990c48cc:357623359,848c1d88c91c8e109ba4539a71180482:1294369726,b96cd188411c8e103c48a419fe56b194:1735507103,83f85580471c8e1043859105b052f76d:-1676071649,1657d18c0bd88e10568561f96fcb5b89:-1250338006,a00a827aa0b77590637639a31d11835a:799313632,3935f836713f3590af53af8576a215f5:-697811775,d925b0f66b3f3590c618d55e97c1a293:-777152746,2ff4b876e23f35900e0d385c3551c901:-1892462772</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request Something">9836281b9718ca10601fb998c253af93</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 19:50:30</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>2f887272751640ae8b0abefb8080d979</sys_id>
+        <sys_metadata>93f4b876973f3590601fb998c253af00</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Something</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sp_instance_link_93f4b876973f3590601fb998c253af00</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_93f4b876973f3590601fb998c253af00">b11651529710c210601fb998c253af9f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 19:50:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
