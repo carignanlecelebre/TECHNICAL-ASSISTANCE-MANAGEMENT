@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 21:38:17</sys_created_on>
+        <sys_id>24ab549897ac4610601fb998c253af7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_982322_technic_2_communes.x_982322_technic_2.tam_technicalassistance_type_user</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_security_acl display_value="x_982322_technic_2_communes">e4ab549897ac4610601fb998c253af5c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_24ab549897ac4610601fb998c253af7b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 21:38:17</sys_updated_on>
+        <sys_user_role display_value="x_982322_technic_2.tam_technicalassistance_type_user" name="x_982322_technic_2.tam_technicalassistance_type_user">f47e044297900210601fb998c253afe7</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>d1e11c19db47ddd042b321c4059619fe</instance_id>
+        <instance_name>dev143293</instance_name>
+        <name>sys_security_acl_role_24ab549897ac4610601fb998c253af7b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-19 21:38:17</sys_created_on><sys_id>24ab549897ac4610601fb998c253af7b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_982322_technic_2_communes.x_982322_technic_2.tam_technicalassistance_type_user</sys_name><sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package><sys_policy/><sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope><sys_security_acl display_value="x_982322_technic_2_communes">e4ab549897ac4610601fb998c253af5c</sys_security_acl><sys_update_name>sys_security_acl_role_24ab549897ac4610601fb998c253af7b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-19 21:38:17</sys_updated_on><sys_user_role display_value="x_982322_technic_2.tam_technicalassistance_type_user" name="x_982322_technic_2.tam_technicalassistance_type_user">f47e044297900210601fb998c253afe7</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-890092415</payload_hash>
+        <record_name>x_982322_technic_2_communes.x_982322_technic_2.tam_technicalassistance_type_user</record_name>
+        <reverted_from/>
+        <source>f25688a597c84ad0601fb998c253af57</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 21:38:17</sys_created_on>
+        <sys_id>6cab549897ac4610601fb998c253af7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc34e2ec30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 21:38:17</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>20ab54986dac4610151247e112ad0f7f</update_guid>
+        <update_guid_history>20ab54986dac4610151247e112ad0f7f:-890092415</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_982322_technic_2_communes.x_982322_technic_2.tam_technicalassistance_type_user">330d078d97a08e10601fb998c253af13</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-22 18:28:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>8325ef7107ff461c80c6a292adf72e90</sys_id>
+        <sys_metadata>24ab549897ac4610601fb998c253af7b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_982322_technic_2_communes.x_982322_technic_2.tam_technicalassistance_type_user</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent display_value="">e4ab549897ac4610601fb998c253af5c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_24ab549897ac4610601fb998c253af7b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_24ab549897ac4610601fb998c253af7b">6cab549897ac4610601fb998c253af7f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-22 18:28:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
