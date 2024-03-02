@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-22 18:31:33</sys_created_on>
-            <sys_id>eead4b4d97a08e10601fb998c253afa0</sys_id>
+            <sys_created_on>2024-02-25 21:35:47</sys_created_on>
+            <sys_id>da94df8a97e0c650601fb998c253afaf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_depts" sys_domain="global" view="Default view">52ad4b4d97a08e10601fb998c253af9d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-22 18:31:33</sys_updated_on>
+            <sys_updated_on>2024-02-25 21:35:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,41 @@
             <element>departement</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-22 18:32:47</sys_created_on>
-            <sys_id>9cfd470197e08e10601fb998c253af28</sys_id>
+            <sys_created_on>2024-02-25 21:35:47</sys_created_on>
+            <sys_id>1a94df8a97e0c650601fb998c253afb0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_depts" sys_domain="global" view="Default view">52ad4b4d97a08e10601fb998c253af9d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-22 18:32:47</sys_updated_on>
+            <sys_updated_on>2024-02-25 21:35:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ma_commune</element>
+            <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-25 17:15:45</sys_created_on>
-            <sys_id>d1195e4297e88650601fb998c253afba</sys_id>
+            <sys_created_on>2024-02-25 21:35:47</sys_created_on>
+            <sys_id>1294df8a97e0c650601fb998c253afb1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_depts" sys_domain="global" view="Default view">52ad4b4d97a08e10601fb998c253af9d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-25 17:15:45</sys_updated_on>
+            <sys_updated_on>2024-02-25 21:35:47</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dept_num</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-25 21:35:47</sys_created_on>
+            <sys_id>1a94df8a97e0c650601fb998c253afb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_depts" sys_domain="global" view="Default view">52ad4b4d97a08e10601fb998c253af9d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-25 21:35:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

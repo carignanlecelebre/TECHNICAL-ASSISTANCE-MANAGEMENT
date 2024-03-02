@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="ma_commune" label="ma commune" language="en" table="x_982322_technic_2_depts">
+    <sys_documentation element="dept_num" label="dept_num" language="en" table="x_982322_technic_2_depts">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>ma_commune</element>
+            <element>dept_num</element>
             <help/>
             <hint/>
-            <label>ma commune</label>
+            <label>dept_num</label>
             <language>en</language>
             <name>x_982322_technic_2_depts</name>
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-25 17:15:45</sys_created_on>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_name>ma commune</sys_name>
+            <sys_created_on>2024-02-25 21:05:01</sys_created_on>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_name>dept_num</sys_name>
             <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
             <sys_policy/>
             <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
-            <sys_update_name>sys_documentation_x_982322_technic_2_depts_ma_commune_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_982322_technic_2_depts_dept_num_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-25 17:15:46</sys_updated_on>
+            <sys_updated_on>2024-02-25 21:05:33</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

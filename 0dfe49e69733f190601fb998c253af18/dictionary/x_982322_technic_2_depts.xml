@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="35ad0fcd97a08e10601fb998c253af92" label="depts" max_length="40" name="x_982322_technic_2_depts" type="collection">
-        <element choice="1" label="département" max_length="40" name="departement" type="string">
-            <choice/>
-        </element>
-        <element choice="1" dependent="departement" dependent_on_field="departement" label="ma commune" max_length="40" name="ma_commune" type="choice" use_dependent_field="true">
-            <choice>
-                <element dependent_value="departement" inactive_on_update="false" label="Gisors" value="Gisors"/>
-            </choice>
-        </element>
+        <element label="département" max_length="40" name="departement" reference="x_982322_technic_2_depts" type="string"/>
+        <element label="dept_num" max_length="2" name="dept_num" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>
 </database>
