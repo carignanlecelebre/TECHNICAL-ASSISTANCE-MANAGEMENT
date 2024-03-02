@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" db_object_id="346e4f4197e08e10601fb998c253af0f" label="commune" max_length="40" name="x_982322_technic_2_commune" type="collection">
+        <element choice="1" dependent="departement" dependent_on_field="departement" label="commune" max_length="40" name="commune" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="08" inactive_on_update="false" label="Carignan" value="Carignan"/>
+                <element dependent_value="27" inactive_on_update="false" label="Gisors" value="Gisors"/>
+                <element dependent_value="27" inactive_on_update="false" label="Authevernes" sequence="0" value="Authevernes"/>
+                <element dependent_value="34" inactive_on_update="false" label="Valras" sequence="1" value="Valras"/>
+            </choice>
+        </element>
+        <element choice="1" display="true" label="département" max_length="40" name="departement" reference="x_982322_technic_2_depts" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Eure" sequence="0" value="27"/>
+                <element inactive_on_update="false" label="Ardennes" sequence="1" value="08"/>
+                <element inactive_on_update="false" label="Herault" sequence="2" value="34"/>
+            </choice>
+        </element>
+    </element>
+</database>

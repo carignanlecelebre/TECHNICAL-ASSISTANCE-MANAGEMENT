@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="commune" table="x_982322_technic_2_commune" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>commune</element>
+            <name>x_982322_technic_2_commune</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-25 17:59:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>commune</sys_name>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_choice_x_982322_technic_2_commune_commune</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-25 17:59:58</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>08</dependent_value>
+            <element>commune</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Carignan</label>
+            <language>en</language>
+            <name>x_982322_technic_2_commune</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-25 18:19:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-25 18:29:08</sys_updated_on>
+            <value>Carignan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>27</dependent_value>
+            <element>commune</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gisors</label>
+            <language>en</language>
+            <name>x_982322_technic_2_commune</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-25 18:19:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-25 18:28:56</sys_updated_on>
+            <value>Gisors</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>27</dependent_value>
+            <element>commune</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Authevernes</label>
+            <language>en</language>
+            <name>x_982322_technic_2_commune</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-25 17:59:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-25 18:05:28</sys_updated_on>
+            <value>Authevernes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>34</dependent_value>
+            <element>commune</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Valras</label>
+            <language>en</language>
+            <name>x_982322_technic_2_commune</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-25 17:59:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-25 18:05:40</sys_updated_on>
+            <value>Valras</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
