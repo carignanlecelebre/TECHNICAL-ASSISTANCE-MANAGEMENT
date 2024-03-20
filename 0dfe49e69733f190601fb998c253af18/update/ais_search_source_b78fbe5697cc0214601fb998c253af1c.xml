@@ -2,7 +2,7 @@
     <ais_search_source action="INSERT_OR_UPDATE">
         <active>true</active>
         <condition/>
-        <datasource display_value="">incident</datasource>
+        <datasource display_value="Incident">incident</datasource>
         <name>Incident</name>
         <sys_class_name>ais_search_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>

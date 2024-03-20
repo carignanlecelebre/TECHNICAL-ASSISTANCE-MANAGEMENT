@@ -52,7 +52,7 @@
         <update_guid_history>f79510934794ca107352baab7a573938:358884785</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="index_tam_portal - Container 1">13d5a4979718ca10601fb998c253afe4</sys_audit_delete>
+        <sys_audit_delete display_value="">13d5a4979718ca10601fb998c253afe4</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-16 19:49:04</sys_created_on>

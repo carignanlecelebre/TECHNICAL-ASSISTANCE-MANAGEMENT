@@ -41,7 +41,7 @@
         <update_guid_history>f4ab9498cfac4610a0303a00d65c5540:1163357393</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_982322_technic_2_communes.x_982322_technic_2.type_user">001d078d97a08e10601fb998c253af7e</sys_audit_delete>
+        <sys_audit_delete display_value="">001d078d97a08e10601fb998c253af7e</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-22 18:28:56</sys_created_on>

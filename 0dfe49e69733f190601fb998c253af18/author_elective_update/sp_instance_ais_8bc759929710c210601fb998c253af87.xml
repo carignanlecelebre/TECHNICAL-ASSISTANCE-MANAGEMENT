@@ -111,7 +111,7 @@
         <update_guid_history>095e9516e050c210acd8a44ce8a3d776:758520609,021d1d125050c210497fa47c19dfe208:-511236115,c76c1dde7010c210c95358197932d05d:-1552898062,ae2cd1deaf10c210d6ddfaaa0ace493c:-1516500258,093b115eff10c210ec4f3c2d44d2567d:-198437543,ffd851d63b10c21070c80e4227800ee7:-211959030,12a815d60010c210ae366bdd50fd0b21:-511236115,1b585996de10c210a509745a93283719:1552075408,4e38dd92ae10c21070db36ab0112fc42:-1288864642,462851965a10c210616f9ea733c6fa0b:-495003825,1e18d5563610c21041c0e2137d4ecfab:-1567155346,47c759926610c210684e7f4563c7aa89:487919906</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="VIN, articles, case number, articles">006e9d129750c210601fb998c253af73</sys_audit_delete>
+        <sys_audit_delete display_value="">006e9d129750c210601fb998c253af73</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-13 21:22:03</sys_created_on>

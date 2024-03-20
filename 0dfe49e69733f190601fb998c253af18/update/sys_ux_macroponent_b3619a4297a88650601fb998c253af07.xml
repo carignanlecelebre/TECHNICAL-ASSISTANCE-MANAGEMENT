@@ -212,4 +212,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-02-25 16:50:20</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=b3619a4297a88650601fb998c253af07"/>
 </record_update>

@@ -9,8 +9,8 @@
             <sys_id>2302d40e97900210601fb998c253af32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_982322_technic_2_tam_technicalassistance_type" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="8b7eb1cf974c4610601fb998c253af90">9b02940e97900210601fb998c253afff</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="8b7eb1cf974c4610601fb998c253af90">2302d40e97900210601fb998c253af25</sys_ui_section>
+            <sys_ui_form display_value="x_982322_technic_2_tam_technicalassistance_type" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="3e4483d847b402104008d921236d43e5">9b02940e97900210601fb998c253afff</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="3e4483d847b402104008d921236d43e5">2302d40e97900210601fb998c253af25</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-02-12 21:10:06</sys_updated_on>
         </sys_ui_form_section>
@@ -23,8 +23,8 @@
             <sys_id>1702d40e97900210601fb998c253af16</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_982322_technic_2_tam_technicalassistance_type" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="8b7eb1cf974c4610601fb998c253af90">9b02940e97900210601fb998c253afff</sys_ui_form>
-            <sys_ui_section caption="Notes" display_value="Notes" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="8b7eb1cf974c4610601fb998c253af90">5702d40e97900210601fb998c253af02</sys_ui_section>
+            <sys_ui_form display_value="x_982322_technic_2_tam_technicalassistance_type" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="3e4483d847b402104008d921236d43e5">9b02940e97900210601fb998c253afff</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="3e4483d847b402104008d921236d43e5">5702d40e97900210601fb998c253af02</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-02-12 21:10:06</sys_updated_on>
         </sys_ui_form_section>
@@ -37,8 +37,8 @@
             <sys_id>af02d40e97900210601fb998c253af3a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_982322_technic_2_tam_technicalassistance_type" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="8b7eb1cf974c4610601fb998c253af90">9b02940e97900210601fb998c253afff</sys_ui_form>
-            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="8b7eb1cf974c4610601fb998c253af90">a702d40e97900210601fb998c253af32</sys_ui_section>
+            <sys_ui_form display_value="x_982322_technic_2_tam_technicalassistance_type" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="3e4483d847b402104008d921236d43e5">9b02940e97900210601fb998c253afff</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="3e4483d847b402104008d921236d43e5">a702d40e97900210601fb998c253af32</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-02-12 21:10:06</sys_updated_on>
         </sys_ui_form_section>
@@ -51,8 +51,8 @@
             <sys_id>ab02d40e97900210601fb998c253af24</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_982322_technic_2_tam_technicalassistance_type" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="8b7eb1cf974c4610601fb998c253af90">9b02940e97900210601fb998c253afff</sys_ui_form>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="8b7eb1cf974c4610601fb998c253af90">9702d40e97900210601fb998c253af1e</sys_ui_section>
+            <sys_ui_form display_value="x_982322_technic_2_tam_technicalassistance_type" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="3e4483d847b402104008d921236d43e5">9b02940e97900210601fb998c253afff</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="3e4483d847b402104008d921236d43e5">9702d40e97900210601fb998c253af1e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-02-12 21:10:06</sys_updated_on>
         </sys_ui_form_section>
@@ -65,8 +65,8 @@
             <sys_id>1302d40e97900210601fb998c253af1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_982322_technic_2_tam_technicalassistance_type" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="8b7eb1cf974c4610601fb998c253af90">9b02940e97900210601fb998c253afff</sys_ui_form>
-            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="8b7eb1cf974c4610601fb998c253af90">9b02d40e97900210601fb998c253af16</sys_ui_section>
+            <sys_ui_form display_value="x_982322_technic_2_tam_technicalassistance_type" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="3e4483d847b402104008d921236d43e5">9b02940e97900210601fb998c253afff</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_982322_technic_2_tam_technicalassistance_type" sys_domain="global" view="3e4483d847b402104008d921236d43e5">9b02d40e97900210601fb998c253af16</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-02-12 21:10:06</sys_updated_on>
         </sys_ui_form_section>
@@ -89,7 +89,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-02-12 21:10:06</sys_updated_on>
             <sys_user/>
-            <view display_value="Major Case" name="major_case">8b7eb1cf974c4610601fb998c253af90</view>
+            <view display_value="Major Case" name="major_case">3e4483d847b402104008d921236d43e5</view>
             <view_name/>
         </sys_ui_form>
     </sys_ui_form_sections>

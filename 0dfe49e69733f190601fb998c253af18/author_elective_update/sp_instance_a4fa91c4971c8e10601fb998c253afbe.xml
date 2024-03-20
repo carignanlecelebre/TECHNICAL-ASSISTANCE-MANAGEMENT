@@ -55,7 +55,7 @@
         <update_guid_history>5f5b91089c1c8e100a771f53dc00e8d5:-1015836525,425b9108531c8e10a924e48cd6282bae:1226934130,9d1bd5c4ce1c8e10102575dc9896b2a6:-1015836525,6cfa91c4d31c8e10d4d214d5fac734bf:1047825438</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Start your journey to get assistance">c68b5908971c8e10601fb998c253afa0</sys_audit_delete>
+        <sys_audit_delete display_value="">c68b5908971c8e10601fb998c253afa0</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-06 21:23:17</sys_created_on>

@@ -63,7 +63,7 @@
         <update_guid_history>c21dd952ab50c2104f3b3cc098318fc8:-1254888110,ee2cd1de5f10c2106b3402209f6f2f46:-912465231,ed215c0a36900210ca7898fa266272fc:-1254888110,6881029193900210225acd58f24e18f6:-135702715,37710291d09002102f28796f02305c79:-53548380,ac610e51b2900210de2a71932f3a7496:28605955,0b51ca517290021089777f329aac437e:-53548380,a8518a51409002106c984acf712b5141:-135702715,551c31950050021061bb4799ec71a7e1:-53548380,23db3955c25002109fe432350c7b9e9d:-135702715,9a9bfd1519500210a44b351b0771a137:-1074965999</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="My cases ">5fb330d79798ca10601fb998c253af18</sys_audit_delete>
+        <sys_audit_delete display_value="">5fb330d79798ca10601fb998c253af18</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-16 20:49:41</sys_created_on>

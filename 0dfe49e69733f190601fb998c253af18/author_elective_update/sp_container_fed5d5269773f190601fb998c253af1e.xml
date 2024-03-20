@@ -52,7 +52,7 @@
         <update_guid_history>b186645b9718ca10bc0297efdf35b422:358884785,a436281b5818ca1089a47225a0909ebb:-1908221998,ebd52cd72718ca105778c00e0531d194:119638515,7b95dc931294ca10042469c029139a86:-2147468268,e1959c939094ca1016a60c16108d6e36:119638515,934e5516db50c210b9dbec000af61cf5:-2147468268,3d1c5d486a1c8e1040ddb2a39c4584c4:119638515,3aca5d840d1c8e10fc261766045bc2c1:-2147468268,f68a55849b1c8e10619a0a7809752b25:119638515,da4919c0af1c8e109173322fce476843:-2147468268,e282b8726f3f35902a47adefa04d0387:119638515,e3d595a62973f1901dc57156439cdfeb:-1908221998,32d5d526ca73f1900db6198f2fdfff21:358884785</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="index_tam_portal - Container 1">f0c370d79798ca10601fb998c253af26</sys_audit_delete>
+        <sys_audit_delete display_value="">f0c370d79798ca10601fb998c253af26</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-16 20:49:48</sys_created_on>

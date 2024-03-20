@@ -55,7 +55,7 @@
         <update_guid_history>1ae4b8b69e3f3590168fa2e5dfb828e4:351232711,f7d474b6903f3590551a7d7b97a640ba:-1624204212</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="soleil">6df47cb6973f3590601fb998c253af20</sys_audit_delete>
+        <sys_audit_delete display_value="">6df47cb6973f3590601fb998c253af20</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-21 11:06:40</sys_created_on>

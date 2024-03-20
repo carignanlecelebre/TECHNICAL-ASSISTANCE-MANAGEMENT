@@ -41,7 +41,7 @@
         <update_guid_history>c8275a7765377d90ba2aa79cfa088352:-1913511083</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Confidential code">70279a7797377d90601fb998c253af0f</sys_audit_delete>
+        <sys_audit_delete display_value="">70279a7797377d90601fb998c253af0f</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-24 20:49:33</sys_created_on>

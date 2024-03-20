@@ -92,7 +92,7 @@
         <update_guid_history>e07b701b28d8ca106be8d1d473750ca6:-1226962200,395abc574dd8ca1033b4d3d3aabf89e9:-680106005,255abc578bd8ca1058a39b64e33a90e3:1187212584,c53a34178bd8ca10135b6381b1e4ea90:358884785</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="index_tam_portal - Container 1">20baf12797100210601fb998c253afad</sys_audit_delete>
+        <sys_audit_delete display_value="">20baf12797100210601fb998c253afad</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-17 20:38:11</sys_created_on>

@@ -72,7 +72,7 @@
         <update_guid_history>4b8c59881c1c8e10ba0fd8308123f394:307524630,ebf81dcc36d88e109f6b6eb2260517c3:183763383,96c85580d71c8e10fdf0c4dff49f2666:-1562140875,7527bcbaed3f3590e805afac73964bf4:938612702,82f678ba533f35904db263bcf4267d3a:-776870415</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Digital Assistance">5036281b9718ca10601fb998c253af9f</sys_audit_delete>
+        <sys_audit_delete display_value="">5036281b9718ca10601fb998c253af9f</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-16 19:50:30</sys_created_on>

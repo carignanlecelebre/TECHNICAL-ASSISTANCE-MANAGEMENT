@@ -65,7 +65,7 @@
         <update_guid_history>c4dab6befe3f75906e014852cc97a89a:-655983564</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Technic 2 1705870284276">e38bf232977f7590601fb998c253af1d</sys_audit_delete>
+        <sys_audit_delete display_value="">e38bf232977f7590601fb998c253af1d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-21 20:54:44</sys_created_on>

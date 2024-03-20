@@ -41,7 +41,7 @@
         <update_guid_history>e2a45a3318377d90ae675adab9c6c6b2:1229115133</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Can We Help You?.Confidential code">b7261ef397377d90601fb998c253af7a</sys_audit_delete>
+        <sys_audit_delete display_value="">b7261ef397377d90601fb998c253af7a</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-24 20:45:22</sys_created_on>

@@ -41,7 +41,7 @@
         <update_guid_history>31fc5c5c40ac4610b0b60f64195af642:-541664626</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_982322_technic_2_departement.x_982322_technic_2.admin">defccf4d97a08e10601fb998c253af08</sys_audit_delete>
+        <sys_audit_delete display_value="">defccf4d97a08e10601fb998c253af08</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-22 18:28:32</sys_created_on>

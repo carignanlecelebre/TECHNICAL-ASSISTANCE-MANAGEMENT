@@ -73,7 +73,7 @@
         <update_guid_history>f76b319cce144250390f7e0db0f2cef4:141677232,214b319c791442500d650a0e3cf897a7:1990600846,672b795cf2144250d6a6e69d1d3d7d93:-1153027846,0d0b795ca5144250e7251901a7f45480:-1190413384,05daf51c70144250dc37220b80ad4bd9:-57826080</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Most rated articles">e24c3d9c97144250601fb998c253afc6</sys_audit_delete>
+        <sys_audit_delete display_value="">e24c3d9c97144250601fb998c253afc6</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-07 18:24:54</sys_created_on>

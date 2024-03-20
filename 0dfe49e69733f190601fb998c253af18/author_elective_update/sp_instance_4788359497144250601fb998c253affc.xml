@@ -153,7 +153,7 @@
         <update_guid_history>90a93958001442502391d13f67eca2d7:1755018416,8f097158d2144250ea25c9d35ddd44c8:1782636270,87883118b114425069df70561eda8c7d:-718167077</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Most related articles">6fc93d9897144250601fb998c253af09</sys_audit_delete>
+        <sys_audit_delete display_value="">6fc93d9897144250601fb998c253af09</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-07 18:14:02</sys_created_on>

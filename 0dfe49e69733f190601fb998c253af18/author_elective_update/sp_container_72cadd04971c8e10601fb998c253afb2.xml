@@ -92,7 +92,7 @@
         <update_guid_history>e5f5ecd74418ca108bee0aba257a9bda:-965441598,23d52cd7ee18ca10148db10f806e3a57:2076261459,33951093c594ca103bb07dd4ddb3bd3c:1415416466,5d959c93fe94ca10facc65aa0380a80d:2076261459,9f4e55163950c210ed985bc1d0695de9:1415416466,bc6ad1dae910c2108e8d7898fe88d50c:2076261459,b22a1d5ae610c2108d58b0e8ddf5c66c:187710806,c1b9d15a8c10c2102e342e0c984be740:-1077957205,9999dd96e710c21053efce30d5be75f0:118307592,c089915a8210c210ebb18ed7a16afa65:-2090825723,351c5d48831c8e107935e1d624b288aa:1827498619,480c9948d51c8e102ea4d6da4da38152:1265964026,8c0c99485e1c8e10fa5aa1ebad8cea4b:2054722500,f6cadd04351c8e106be30f3fd89f53b3:-1908221998</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="index_tam_portal - Container 1">2186205b9718ca10601fb998c253afb0</sys_audit_delete>
+        <sys_audit_delete display_value="">2186205b9718ca10601fb998c253afb0</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-16 19:51:57</sys_created_on>

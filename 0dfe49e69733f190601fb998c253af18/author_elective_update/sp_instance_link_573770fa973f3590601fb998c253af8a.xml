@@ -72,7 +72,7 @@
         <update_guid_history>38bcb0b63d7f359078d67c542cad173f:-1754512749,b85bb4f22d7f3590425b12092b93dad4:136978930,fc67f4ba533f359077b977c8d94cae69:-1754512749,1b3770fa913f3590fc41c7ff1222578b:-739875057</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Create a case">a7c89580971c8e10601fb998c253af3a</sys_audit_delete>
+        <sys_audit_delete display_value="">a7c89580971c8e10601fb998c253af3a</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-06 21:11:23</sys_created_on>
