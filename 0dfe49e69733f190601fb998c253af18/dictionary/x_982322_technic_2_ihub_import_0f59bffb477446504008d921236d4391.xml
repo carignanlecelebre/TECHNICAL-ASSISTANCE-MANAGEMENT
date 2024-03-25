@@ -13,6 +13,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=C_MARQUE_ID" label="C_MARQUE_ID" max_length="40" name="u_c_marque_id" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=C_OIC_CODE" label="C_OIC_CODE" max_length="40" name="u_c_oic_code" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=C_PAYS_ID" label="C_PAYS_ID" max_length="40" name="u_c_pays_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=I" label="I" max_length="40" name="u_i" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=N_CLIENT_ID" label="N_CLIENT_ID" max_length="40" name="u_n_client_id" type="string"/>
     </element>
 </database>
