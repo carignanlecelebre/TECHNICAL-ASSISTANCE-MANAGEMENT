@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for contact</description>
+        <name>contact_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="contact_etl_ihub">3fbb558a47dd8a104008d921236d4337</robust_transform_engine>
+        <source_table>x_982322_technic_2_ihub_import_c6d999c647dd8a104008d921236d4381</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-02 19:34:51</sys_created_on>
+        <sys_id>37bb558a47dd8a104008d921236d433b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>contact_rte_ihub</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_37bb558a47dd8a104008d921236d433b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-02 19:34:51</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>
