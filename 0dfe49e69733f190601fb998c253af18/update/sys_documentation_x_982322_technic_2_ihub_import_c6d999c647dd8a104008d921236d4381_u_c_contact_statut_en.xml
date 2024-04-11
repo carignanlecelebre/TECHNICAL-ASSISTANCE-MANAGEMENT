@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_c_contact_statut" label="C_CONTACT_STATUT" language="en" table="x_982322_technic_2_ihub_import_c6d999c647dd8a104008d921236d4381">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_c_contact_statut</element>
+            <help/>
+            <hint/>
+            <label>C_CONTACT_STATUT</label>
+            <language>en</language>
+            <name>x_982322_technic_2_ihub_import_c6d999c647dd8a104008d921236d4381</name>
+            <plural>C_CONTACT_STATUTs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-02 19:46:57</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>C_CONTACT_STATUT</sys_name>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_documentation_x_982322_technic_2_ihub_import_c6d999c647dd8a104008d921236d4381_u_c_contact_statut_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-02 19:46:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
