@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2c1bcb8147e18e504008d921236d4370" label="tam_tickets" max_length="40" name="x_982322_technic_2_tam_tickets" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="C_DOS_CONSTATATION_LA" max_length="4096" name="c_dos_constatation_la" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_DOS_LA" max_length="40" name="c_dos_la" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C_DOS_ODOMETRE" max_length="40" name="c_dos_odometre" type="glide_date"/>
+        <element label="C_DOS_ST_ID" max_length="40" name="c_dos_st_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="C_NATURE" max_length="40" name="c_nature" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="D_CREATION" max_length="40" name="d_creation" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="N_CLIENT_ID" max_length="40" name="n_client_id" type="string"/>
+        <element label="N_DOS_ID" max_length="40" name="n_dos_id" type="float"/>
+    </element>
+</database>
