@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="3fac44b7974cca10601fb998c253af1c" label="dealer_networks" max_length="40" name="x_982322_technic_2_dealer_networks" type="collection">
+    <element db_object_id="3fac44b7974cca10601fb998c253af1c" label="dealer_networks" max_length="40" name="x_982322_technic_2_dealer_networks" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="C_CLIENT_ADRESSE" max_length="100" name="c_client_adresse" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="C_CLIENT_CODE_POSTAL" max_length="40" name="c_client_code_postal" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="C_CLIENT_FILIALE" max_length="40" name="c_client_filiale" type="string"/>

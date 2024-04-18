@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="2c1bcb8147e18e504008d921236d4370" label="tam_tickets" max_length="40" name="x_982322_technic_2_tam_tickets" type="collection">
+    <element db_object_id="2c1bcb8147e18e504008d921236d4370" label="tam_tickets" max_length="40" name="x_982322_technic_2_tam_tickets" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="C_DOS_CONSTATATION_LA" max_length="4096" name="c_dos_constatation_la" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="C_DOS_LA" max_length="40" name="c_dos_la" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="C_DOS_ODOMETRE" max_length="40" name="c_dos_odometre" type="glide_date"/>

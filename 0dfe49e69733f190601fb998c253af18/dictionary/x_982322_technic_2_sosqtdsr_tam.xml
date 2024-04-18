@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="0c8bfafe973f7590601fb998c253afe5" label="sosqtdsr_tam" max_length="40" name="x_982322_technic_2_sosqtdsr_tam" type="collection">
+    <element db_object_id="0c8bfafe973f7590601fb998c253afe5" label="sosqtdsr_tam" max_length="40" name="x_982322_technic_2_sosqtdsr_tam" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="CHANGE_DT" max_length="40" name="change_dt" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="CHANGE_UID" max_length="40" name="change_uid" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Customer complaint" max_length="4096" name="c_dos_constatation_la" type="string"/>

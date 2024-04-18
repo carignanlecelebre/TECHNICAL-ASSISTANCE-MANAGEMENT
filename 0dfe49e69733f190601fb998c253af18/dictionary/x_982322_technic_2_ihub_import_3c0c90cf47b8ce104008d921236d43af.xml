@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="b01ed48347f8ce104008d921236d434c" extends="sys_import_set_row" label="accounts" max_length="40" name="x_982322_technic_2_ihub_import_3c0c90cf47b8ce104008d921236d43af" type="collection">
+    <element db_object_id="b01ed48347f8ce104008d921236d434c" extends="sys_import_set_row" label="accounts" max_length="40" name="x_982322_technic_2_ihub_import_3c0c90cf47b8ce104008d921236d43af" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Account Name" label="Account Name" max_length="40" name="u_account_name" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=City" label="City" max_length="40" name="u_city" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>

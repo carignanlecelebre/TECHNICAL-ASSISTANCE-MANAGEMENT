@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="ac8e1d8e47dd8a104008d921236d4362" extends="sys_import_set_row" label="contact" max_length="40" name="x_982322_technic_2_ihub_import_c6d999c647dd8a104008d921236d4381" type="collection">
+    <element db_object_id="ac8e1d8e47dd8a104008d921236d4362" extends="sys_import_set_row" label="contact" max_length="40" name="x_982322_technic_2_ihub_import_c6d999c647dd8a104008d921236d4381" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_EMAIL" label="C_CONTACT_EMAIL" max_length="40" name="u_c_contact_email" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_FAX" label="C_CONTACT_FAX" max_length="40" name="u_c_contact_fax" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_NOM" label="C_CONTACT_NOM" max_length="40" name="u_c_contact_nom" type="string"/>

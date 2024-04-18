@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="hasLabels=true" db_object_id="346e4f4197e08e10601fb998c253af0f" label="commune" max_length="40" name="x_982322_technic_2_commune" type="collection">
+    <element attributes="hasLabels=true" db_object_id="346e4f4197e08e10601fb998c253af0f" label="commune" max_length="40" name="x_982322_technic_2_commune" text_index="true" type="collection">
         <element choice="1" dependent="departement" dependent_on_field="departement" label="commune" max_length="40" name="commune" type="choice" use_dependent_field="true">
             <choice>
                 <element dependent_value="08" inactive_on_update="false" label="Carignan" value="Carignan"/>

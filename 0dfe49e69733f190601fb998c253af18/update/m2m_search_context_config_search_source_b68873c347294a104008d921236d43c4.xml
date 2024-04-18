@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Technical Assistance Management - Workspace Search">528ffa56dfcc02141df233f03b278948</search_context_config>
+        <source display_value="Technical Assistance Management - x_982322_technic">aa8873c347294a104008d921236d43aa</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-18 19:49:32</sys_created_on>
+        <sys_id>b68873c347294a104008d921236d43c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_b68873c347294a104008d921236d43c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-18 19:49:32</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_982322_technic_2_tam_tickets,x_982322_technic_2_dealer_networks,x_982322_technic_2_sosqtdsr_tam,sn_customerservice_case,x_982322_technic_2_commune,x_982322_technic_2_customer_symptom_level1,x_982322_technic_2_depts,x_982322_technic_2_tasks</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>technical-assistance-managementv2 Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_982322_technic_2_technical_assistance_managementv2_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-18 19:49:39</sys_created_on>
+        <sys_id>e498f7c347294a104008d921236d43b8</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>x_982322_technic_2_technical_assistance_managementv2_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>ais_dictionary_e498f7c347294a104008d921236d43b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-18 19:49:40</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>
