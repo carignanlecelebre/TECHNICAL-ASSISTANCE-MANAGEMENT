@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Ribbon Config ID</description>
+        <name>ribbonConfigId</name>
+        <page display_value="Technical Assistance Management">45b719881af58e101b556020cee8b152</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-21 10:40:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>cdb71988f4f58e10301d58c1481b7142</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_page_property_cdb71988f4f58e10301d58c1481b7142</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-21 10:40:46</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_982322_technic_2.45b719881af58e101b556020cee8b152.root.ribbonConfigId</unique_name>
+        <value>85b7198874f58e10660dc7269e3b2d42</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=cdb71988f4f58e10301d58c1481b7142"/>
+</record_update>

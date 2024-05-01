@@ -2,28 +2,28 @@
     <sys_ux_page_property action="INSERT_OR_UPDATE">
         <choices/>
         <description/>
-        <name>globalSearchDataConfigId</name>
-        <page display_value="Technical Assistance Management">168ffa5648cc021431fd074d98872851</page>
+        <name>routeConfigId</name>
+        <page display_value="Technical Assistance Management">45b719881af58e101b556020cee8b152</page>
         <required_translations>[]</required_translations>
         <route/>
         <suffix/>
         <sys_class_name>sys_ux_page_property</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-02-01 18:10:52</sys_created_on>
+        <sys_created_on>2024-04-21 10:40:45</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>global</sys_domain_path>
-        <sys_id>5e8ffa5686cc02148b8c18c532e9253f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_id>45b7198834f58e10b9c5b541e2825743</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>routeConfigId</sys_name>
         <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
         <sys_policy/>
         <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
-        <sys_update_name>sys_ux_page_property_5e8ffa5686cc02148b8c18c532e9253f</sys_update_name>
+        <sys_update_name>sys_ux_page_property_45b7198834f58e10b9c5b541e2825743</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-21 10:40:52</sys_updated_on>
+        <sys_updated_on>2024-04-21 10:40:45</sys_updated_on>
         <type>string</type>
-        <unique_name>x_982322_technic_2.168ffa5648cc021431fd074d98872851.root.globalSearchDataConfigId</unique_name>
-        <value>41b7198899f58e1068fb6af3fd09534a</value>
+        <unique_name>x_982322_technic_2.45b719881af58e101b556020cee8b152.root.routeConfigId</unique_name>
+        <value>76a302f10b131010a8b1c96237673a61</value>
     </sys_ux_page_property>
-    <sys_translated_text action="delete_multiple" query="documentkey=5e8ffa5686cc02148b8c18c532e9253f"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=45b7198834f58e10b9c5b541e2825743"/>
 </record_update>
