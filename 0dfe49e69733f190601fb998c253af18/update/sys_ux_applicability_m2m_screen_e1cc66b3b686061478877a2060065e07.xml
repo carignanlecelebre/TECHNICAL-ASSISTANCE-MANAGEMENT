@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">a9cc66b38e860614af21c2844d37390f</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">6dcc66b314860614b6c4eef0a6ceba06</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-15 18:45:21</sys_created_on>
+        <sys_id>e1cc66b3b686061478877a2060065e07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_e1cc66b3b686061478877a2060065e07</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-15 18:45:21</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

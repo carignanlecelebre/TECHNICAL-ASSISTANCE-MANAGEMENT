@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="69ccfb3347b446504008d921236d43fe" extends="sys_import_set_row" label="accounts" max_length="40" name="x_982322_technic_2_ihub_import_0f59bffb477446504008d921236d4391" text_index="true" type="collection">
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_ADRESSE" label="C_CLIENT_ADRESSE" max_length="66" name="u_c_client_adresse" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_CODE_POSTAL" label="C_CLIENT_CODE_POSTAL" max_length="40" name="u_c_client_code_postal" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_FILIALE" label="C_CLIENT_FILIALE" max_length="40" name="u_c_client_filiale" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_HIERARCHIE_TYPE_ID" label="C_CLIENT_HIERARCHIE_TYPE_ID" max_length="40" name="u_c_client_hierarchie_type_id" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_LANGUE_ID" label="C_CLIENT_LANGUE_ID" max_length="40" name="u_c_client_langue_id" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_RAISONSOCIALE" label="C_CLIENT_RAISONSOCIALE" max_length="40" name="u_c_client_raisonsociale" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_ST_ID" label="C_CLIENT_ST_ID" max_length="40" name="u_c_client_st_id" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_VILLE" label="C_CLIENT_VILLE" max_length="40" name="u_c_client_ville" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_MAIN_SINCOM" label="C_MAIN_SINCOM" max_length="40" name="u_c_main_sincom" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_MARKET_CODE" label="C_MARKET_CODE" max_length="40" name="u_c_market_code" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_MARQUE_ID" label="C_MARQUE_ID" max_length="40" name="u_c_marque_id" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_OIC_CODE" label="C_OIC_CODE" max_length="40" name="u_c_oic_code" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_PAYS_ID" label="C_PAYS_ID" max_length="40" name="u_c_pays_id" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=I" label="I" max_length="40" name="u_i" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=N_CLIENT_ID" label="N_CLIENT_ID" max_length="40" name="u_n_client_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_MAIN_SINCOM" label="C_MAIN_SINCOM" max_length="40" name="u_c_main_sincom" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_HIERARCHIE_TYPE_ID" label="C_CLIENT_HIERARCHIE_TYPE_ID" max_length="40" name="u_c_client_hierarchie_type_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_CODE_POSTAL" label="C_CLIENT_CODE_POSTAL" max_length="40" name="u_c_client_code_postal" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_OIC_CODE" label="C_OIC_CODE" max_length="40" name="u_c_oic_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_MARQUE_ID" label="C_MARQUE_ID" max_length="40" name="u_c_marque_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_ADRESSE" label="C_CLIENT_ADRESSE" max_length="66" name="u_c_client_adresse" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_PAYS_ID" label="C_PAYS_ID" max_length="40" name="u_c_pays_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_LANGUE_ID" label="C_CLIENT_LANGUE_ID" max_length="40" name="u_c_client_langue_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_VILLE" label="C_CLIENT_VILLE" max_length="40" name="u_c_client_ville" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=I" label="I" max_length="40" name="u_i" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CLIENT_FILIALE" label="C_CLIENT_FILIALE" max_length="40" name="u_c_client_filiale" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_MARKET_CODE" label="C_MARKET_CODE" max_length="40" name="u_c_market_code" type="string"/>
     </element>
 </database>

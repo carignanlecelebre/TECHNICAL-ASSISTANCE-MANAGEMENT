@@ -1,5 +1,481 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="customer_account" section_id="4904694c47398e104008d921236d4352" sys_domain="global" table="customer_account" version="3" view="list">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:56</sys_created_on>
+            <sys_id>ec28e95647ee82104008d921236d4303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_code</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:56</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d4382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:56</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d4382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:56</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rural_based_status</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:56</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d4383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:56</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d4383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_parent</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:56</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d4384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:56</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d4384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:56</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tax_id</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:56</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d4385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assumed_name</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:56</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d4385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d4386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incorporated_on</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d4386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>registration_code</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d4387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tribal_affiliation_status</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d4387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d4388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active_escalation</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d4388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_structure</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d4389</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d4389</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>legal_entity_name</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d438a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d438a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>industry</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d438b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>women_ownership_status</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d438b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d438d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>identification_number</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d438d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>trademark</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>primary_contact</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d438f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d438f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>minority_ownership_status</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d4390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>partner</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d4390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d4391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_path</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>ec282d9647ee82104008d921236d4391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_982322_technic_2_new_field_1</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-04 18:25:57</sys_created_on>
+            <sys_id>e4282d9647ee82104008d921236d4392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="67019f0397423110601fb998c253afe4">4904694c47398e104008d921236d4352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-04 18:25:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>customer_account</caption>
             <header>false</header>

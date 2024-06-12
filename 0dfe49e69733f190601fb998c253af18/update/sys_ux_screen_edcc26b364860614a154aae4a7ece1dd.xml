@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Custom Portal App Config">15cc26b3478606144008d921236d43a4</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Additional Details">21cc26b3b5860614374f58ebbe55e6fb</macroponent>
+        <macroponent_config>{&#13;
+    "sysId" : {&#13;
+    "type" : "CONTEXT_BINDING",&#13;
+    "binding" : {&#13;
+      "address" : [ "sysId" ],&#13;
+      "category" : "props"&#13;
+    }&#13;
+  },&#13;
+  "label" : {&#13;
+    "type" : "TRANSLATION_LITERAL",&#13;
+    "value" : {&#13;
+      "code" : null,&#13;
+      "message" : "",&#13;
+      "comment" : ""&#13;
+    }&#13;
+  },&#13;
+  "bare" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : true&#13;
+  },&#13;
+  "scrollable" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : "none"&#13;
+  },&#13;
+  "headerLevel" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : "1"&#13;
+  },&#13;
+  "headingOnlyVisibleToScreenReaders" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : false&#13;
+  },&#13;
+  "interceptNotifications" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : false&#13;
+  },&#13;
+  "propagateNotifications" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : false&#13;
+  }&#13;
+}</macroponent_config>
+        <name>Additional Details Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(task)">25cc66b361860614701a3f38d7ddd806</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Additional Details">65cc26b3fa8606148d666fea73bca8ff</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-15 18:45:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>edcc26b364860614a154aae4a7ece1dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional Details Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_screen_edcc26b364860614a154aae4a7ece1dd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-15 18:45:21</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=edcc26b364860614a154aae4a7ece1dd"/>
+</record_update>
