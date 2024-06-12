@@ -27,19 +27,20 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/svg+xml</content_type>
+        <encryption_context/>
         <file_name>image</file_name>
         <hash>c6ab127e9bc6c1644c3f4cd0bf74a6a050540f0da27f769c7abea54039c96b05</hash>
         <image_height/>
         <image_width/>
         <size_bytes>12910</size_bytes>
         <size_compressed>5492</size_compressed>
-        <state>pending</state>
+        <state>available</state>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2024-01-20 18:23:37</sys_created_on>
         <sys_id>4c6fc52a3633f190d23bfa17478e78aa</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-01-20 18:23:37</sys_updated_on>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2024-05-04 08:52:29</sys_updated_on>
         <table_name>ZZ_YYdb_image</table_name>
         <table_sys_id>046fc52ac433f1902e1f05187a2442ab</table_sys_id>
     </sys_attachment>

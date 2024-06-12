@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Dealer" section_id="adc791c847f58e104008d921236d43c3" sys_domain="global" table="x_982322_technic_2_sosqtdsr_tam" version="3" view="workspace-technical-assistance-management-2">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>n_client_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:41:02</sys_created_on>
+            <sys_id>e1c791c847f58e104008d921236d43c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dealer" display_value="Dealer" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">adc791c847f58e104008d921236d43c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:41:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_marque_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:41:02</sys_created_on>
+            <sys_id>e9c791c847f58e104008d921236d43c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dealer" display_value="Dealer" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">adc791c847f58e104008d921236d43c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:41:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_dos_emaildiag_emetteur</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:41:02</sys_created_on>
+            <sys_id>edc791c847f58e104008d921236d43f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dealer" display_value="Dealer" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">adc791c847f58e104008d921236d43c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:41:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:41:02</sys_created_on>
+            <sys_id>e9c791c847f58e104008d921236d43c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dealer" display_value="Dealer" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">adc791c847f58e104008d921236d43c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:41:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Dealer</caption>
+            <header>false</header>
+            <name>x_982322_technic_2_sosqtdsr_tam</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:41:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>adc791c847f58e104008d921236d43c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_technic_2_sosqtdsr_tam</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_section_adc791c847f58e104008d921236d43c3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:41:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Technical Assistance Management 2" name="workspace-technical-assistance-management-2">81b7198808f58e1030059f5c61d3f049</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

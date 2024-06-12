@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="35ad0fcd97a08e10601fb998c253af92" label="depts" max_length="40" name="x_982322_technic_2_depts" type="collection">
+    <element db_object_id="35ad0fcd97a08e10601fb998c253af92" label="depts" max_length="40" name="x_982322_technic_2_depts" text_index="true" type="collection">
         <element label="département" max_length="40" name="departement" reference="x_982322_technic_2_depts" type="string"/>
         <element label="dept_num" max_length="2" name="dept_num" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>

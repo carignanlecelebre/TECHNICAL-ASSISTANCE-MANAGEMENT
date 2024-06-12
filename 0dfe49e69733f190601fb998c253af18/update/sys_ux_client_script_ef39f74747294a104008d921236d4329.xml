@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Default ticket">5739f74747294a104008d921236d4326</macroponent>
+        <name>now_code_editor_2/content</name>
+        <preset/>
+        <required_translations>[
+    
+]</required_translations>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+  var allProps = {};
+  allProps.ciBaseProperties = api.data.propertiesController.ciBaseProperties;
+  allProps.ciExtendedProperties = api.data.propertiesController.ciExtendedProperties;
+  allProps.ciConnectionProperties = api.data.propertiesController.ciConnectionProperties;
+  allProps.hideCiProps = api.data.propertiesController.hideCiProps;
+  allProps.hideConnectionProps = api.data.propertiesController.hideConnectionProps;
+  allProps.showEmptyState = api.data.propertiesController.showEmptyState;
+  var json = JSON.stringify(allProps, undefined, 4);
+	return json;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-18 19:52:35</sys_created_on>
+        <sys_id>ef39f74747294a104008d921236d4329</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>now_code_editor_2/content</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_client_script_ef39f74747294a104008d921236d4329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-18 19:52:35</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

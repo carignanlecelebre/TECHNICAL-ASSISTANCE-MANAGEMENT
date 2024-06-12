@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for Technical Assistance Management generated</description>
+        <name>view</name>
+        <page display_value="Technical Assistance Management">8988bf838a294a1054dfb66b7f4bd79f</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-18 19:49:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8588bf832d294a10b24719f80ee53291</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_page_property_8588bf832d294a10b24719f80ee53291</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-18 19:49:26</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_982322_technic_2.8988bf838a294a1054dfb66b7f4bd79f.root.view</unique_name>
+        <value>workspace-technical-assistance-management-1</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=8588bf832d294a10b24719f80ee53291"/>
+</record_update>

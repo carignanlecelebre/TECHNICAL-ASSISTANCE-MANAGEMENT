@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "rootNode": "53958ff0c0a801640171ec76aa0c8f86",
+    "selectedNodeSysid": "53958ff0c0a801640171ec76aa0c8f86",
+    "selectedNodeClass": "cmdb_ci_linux_server",
+    "levels": "3",
+    "selectedConnectionId": ""
+}</macroponent_config>
+        <screen display_value="Default ticket">c049f74747294a104008d921236d4371</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-18 19:52:37</sys_created_on>
+        <sys_id>4849f74747294a104008d921236d4374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_4849f74747294a104008d921236d4374</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-18 19:52:37</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

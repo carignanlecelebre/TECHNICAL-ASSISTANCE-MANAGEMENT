@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE">
+        <condition_script><![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group/>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>IHUB_TEMP_TARGET_MAPPING</name>
+        <order>50</order>
+        <source_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_customer_account">3e807957473842504008d921236d432b</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-12 21:46:44</sys_created_on>
+        <sys_id>3e807957473842504008d921236d438a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TEMP_TARGET_MAPPING</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="account_dealers_etl_ihub">1cdb21df47f442504008d921236d43ae</sys_rte_eb_definition>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_3e807957473842504008d921236d438a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-12 21:46:44</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="Target_customer_account">a0db21df47f442504008d921236d43d8</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+</record_update>

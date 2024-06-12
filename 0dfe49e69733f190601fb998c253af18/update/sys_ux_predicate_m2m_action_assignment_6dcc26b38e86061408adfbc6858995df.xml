@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">25cc66b3268606146944af6b60a4d60f</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">6dcc26b362860614ea443565d0ec25e8</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-15 18:45:21</sys_created_on>
+        <sys_id>6dcc26b38e86061408adfbc6858995df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_6dcc26b38e86061408adfbc6858995df</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-15 18:45:21</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

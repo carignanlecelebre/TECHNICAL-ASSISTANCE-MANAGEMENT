@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="INSERT_OR_UPDATE">
+        <child_id_field/>
+        <name>Source_x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-12 21:26:05</sys_created_on>
+        <sys_id>54db21df47f442504008d921236d43b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="account_dealers_etl_ihub">1cdb21df47f442504008d921236d43ae</sys_rte_eb_definition>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_54db21df47f442504008d921236d43b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-12 21:26:05</sys_updated_on>
+        <table>x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c</table>
+    </sys_rte_eb_etl_entity>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_982322_technic_2_tasks">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>Technical Assistance Management - x_982322_technic</name>
+        <roles/>
+        <source_table>x_982322_technic_2_tasks</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-18 19:49:39</sys_created_on>
+        <sys_id>ec98f7c347294a104008d921236d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Assistance Management - x_982322_technic</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_search_source_ec98f7c347294a104008d921236d438b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-18 19:49:39</sys_updated_on>
+    </sys_search_source>
+</record_update>

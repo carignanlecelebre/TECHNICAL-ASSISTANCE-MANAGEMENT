@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a6022f7847a64a504008d921236d43bd" sys_domain="global" table="customer_account" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 11:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76026f7847a64a504008d921236d437b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="customer_account" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">a6022f7847a64a504008d921236d43bd</sys_ui_form>
+            <sys_ui_section caption="customer_account" display_value="customer_account" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">9071673847a64a504008d921236d439e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 11:27:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 11:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2026f7847a64a504008d921236d437c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="customer_account" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">a6022f7847a64a504008d921236d43bd</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">6e022f7847a64a504008d921236d43bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 12:30:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 11:52:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daa7a7b447e64a504008d921236d43fc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="customer_account" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">a6022f7847a64a504008d921236d43bd</sys_ui_form>
+            <sys_ui_section caption="New section 2" display_value="New section 2" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">92a7a7b447e64a504008d921236d43fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 12:30:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>customer_account</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 11:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6022f7847a64a504008d921236d43bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>customer_account</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a6022f7847a64a504008d921236d43bd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 11:27:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="myform" name="myform">9471673847a64a504008d921236d4367</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

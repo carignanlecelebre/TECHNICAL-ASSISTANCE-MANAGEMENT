@@ -1042,4 +1042,5 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2024-02-06 20:25:50</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=1d5e4948b9988e1043e0b3d3266b6a52"/>
 </record_update>

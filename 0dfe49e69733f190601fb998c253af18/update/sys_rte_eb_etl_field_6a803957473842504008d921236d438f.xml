@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>fax_phone</field>
+        <name>Fax phone</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-12 21:46:43</sys_created_on>
+        <sys_id>6a803957473842504008d921236d438f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fax phone</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="account_dealers_etl_ihub">1cdb21df47f442504008d921236d43ae</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Target_customer_account">a0db21df47f442504008d921236d43d8</sys_rte_eb_entity>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_6a803957473842504008d921236d438f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-12 21:46:43</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a6987bc347294a104008d921236d439f" sys_domain="global" table="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" version="3" view="workspace-technical-assistance-management-1">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:48</sys_created_on>
+            <sys_id>6e98fbc347294a104008d921236d435b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:48</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_client_langue_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:48</sys_created_on>
+            <sys_id>6e98fbc347294a104008d921236d435a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_market_code</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:48</sys_created_on>
+            <sys_id>2a987bc347294a104008d921236d43a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_client_filiale</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:48</sys_created_on>
+            <sys_id>6698fbc347294a104008d921236d435b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_client_ville</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:48</sys_created_on>
+            <sys_id>22987bc347294a104008d921236d43a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_pays_id</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:47</sys_created_on>
+            <sys_id>2a987bc347294a104008d921236d43a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_client_adresse</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:48</sys_created_on>
+            <sys_id>2a987bc347294a104008d921236d43a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_client_raisonsociale</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:47</sys_created_on>
+            <sys_id>22987bc347294a104008d921236d43a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:48</sys_created_on>
+            <sys_id>22987bc347294a104008d921236d43a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:48</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_marque_id</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:47</sys_created_on>
+            <sys_id>2a987bc347294a104008d921236d43a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_client_hierarchie_type_id</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:48</sys_created_on>
+            <sys_id>2a987bc347294a104008d921236d43a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_main_sincom</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:47</sys_created_on>
+            <sys_id>22987bc347294a104008d921236d43a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_n_client_id</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:48</sys_created_on>
+            <sys_id>22987bc347294a104008d921236d43a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_client_code_postal</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:47</sys_created_on>
+            <sys_id>2a987bc347294a104008d921236d43a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_client_st_id</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:48</sys_created_on>
+            <sys_id>2a987bc347294a104008d921236d43a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_oic_code</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:47</sys_created_on>
+            <sys_id>22987bc347294a104008d921236d43a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:48</sys_created_on>
+            <sys_id>6698fbc347294a104008d921236d435a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">a6987bc347294a104008d921236d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:48</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6987bc347294a104008d921236d439f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_section_a6987bc347294a104008d921236d439f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:47</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Technical Assistance Management 1" name="workspace-technical-assistance-management-1">c588bf830d294a10c43a15aee9b30896</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

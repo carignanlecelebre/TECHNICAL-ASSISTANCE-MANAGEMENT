@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Contact Information" section_id="14c79d8847f58e104008d921236d437e" sys_domain="global" table="customer_account" version="3" view="workspace-technical-assistance-management-2">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:40:58</sys_created_on>
+            <sys_id>50c79d8847f58e104008d921236d4380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact Information" display_value="Contact Information" name="customer_account" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">14c79d8847f58e104008d921236d437e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:40:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Contact Information</caption>
+            <header>false</header>
+            <name>customer_account</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:40:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14c79d8847f58e104008d921236d437e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>customer_account</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_section_14c79d8847f58e104008d921236d437e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:40:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Technical Assistance Management 2" name="workspace-technical-assistance-management-2">81b7198808f58e1030059f5c61d3f049</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

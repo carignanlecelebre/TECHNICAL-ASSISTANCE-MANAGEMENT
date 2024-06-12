@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New section 2" section_id="92a7a7b447e64a504008d921236d43fa" sys_domain="global" table="customer_account" version="3" view="myform">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active_escalation</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 12:29:44</sys_created_on>
+            <sys_id>7b30ff78472a4a504008d921236d430c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 2" display_value="New section 2" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">92a7a7b447e64a504008d921236d43fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 12:29:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>special_handling_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 12:29:44</sys_created_on>
+            <sys_id>7330ff78472a4a504008d921236d430d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Special Handling Notes Pop Up">07103c0dc351120095ccd02422d3ae9b</sys_ui_formatter>
+            <sys_ui_section caption="New section 2" display_value="New section 2" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">92a7a7b447e64a504008d921236d43fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 12:29:44</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 12:29:44</sys_created_on>
+            <sys_id>b730ff78472a4a504008d921236d433f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="New section 2" display_value="New section 2" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">92a7a7b447e64a504008d921236d43fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 12:29:44</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>market_cap</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 12:29:44</sys_created_on>
+            <sys_id>ff30ff78472a4a504008d921236d433f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 2" display_value="New section 2" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">92a7a7b447e64a504008d921236d43fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 12:29:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 12:29:44</sys_created_on>
+            <sys_id>f730ff78472a4a504008d921236d4340</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 2" display_value="New section 2" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">92a7a7b447e64a504008d921236d43fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 12:29:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent.name</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 12:29:44</sys_created_on>
+            <sys_id>ff30ff78472a4a504008d921236d4340</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 2" display_value="New section 2" name="customer_account" sys_domain="global" view="9471673847a64a504008d921236d4367">92a7a7b447e64a504008d921236d43fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 12:29:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New section 2</caption>
+            <header>false</header>
+            <name>customer_account</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-31 11:52:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92a7a7b447e64a504008d921236d43fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>customer_account</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_section_92a7a7b447e64a504008d921236d43fa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-31 11:52:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="myform" name="myform">9471673847a64a504008d921236d4367</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

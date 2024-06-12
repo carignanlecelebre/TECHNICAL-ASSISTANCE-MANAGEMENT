@@ -13,7 +13,7 @@
         <label>depts</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_982322_technic_2_depts</name>
-        <number_ref display_value="DPT">fdad0fcd97a08e10601fb998c253afb9</number_ref>
+        <number_ref display_value="">fdad0fcd97a08e10601fb998c253afb9</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>

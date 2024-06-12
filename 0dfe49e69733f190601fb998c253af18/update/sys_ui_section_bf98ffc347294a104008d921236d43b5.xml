@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Vehicle" section_id="bf98ffc347294a104008d921236d43b5" sys_domain="global" table="x_982322_technic_2_sosqtdsr_tam" version="3" view="workspace-technical-assistance-management-1">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_dos_vin</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:52</sys_created_on>
+            <sys_id>fb98ffc347294a104008d921236d43b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle" display_value="Vehicle" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">bf98ffc347294a104008d921236d43b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_dos_odometre</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:52</sys_created_on>
+            <sys_id>bb98ffc347294a104008d921236d43c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle" display_value="Vehicle" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">bf98ffc347294a104008d921236d43b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_dos_odo_id</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:52</sys_created_on>
+            <sys_id>b398ffc347294a104008d921236d43c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle" display_value="Vehicle" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">bf98ffc347294a104008d921236d43b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicule_immobilise</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:52</sys_created_on>
+            <sys_id>fb98ffc347294a104008d921236d43b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle" display_value="Vehicle" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">bf98ffc347294a104008d921236d43b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:52</sys_created_on>
+            <sys_id>f398ffc347294a104008d921236d43b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle" display_value="Vehicle" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">bf98ffc347294a104008d921236d43b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_vehicule_id</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:52</sys_created_on>
+            <sys_id>b398ffc347294a104008d921236d43c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle" display_value="Vehicle" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">bf98ffc347294a104008d921236d43b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_dos_dam</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:52</sys_created_on>
+            <sys_id>bb98ffc347294a104008d921236d43c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle" display_value="Vehicle" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">bf98ffc347294a104008d921236d43b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>d_dos_deb_garantie</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:52</sys_created_on>
+            <sys_id>f398ffc347294a104008d921236d43b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle" display_value="Vehicle" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">bf98ffc347294a104008d921236d43b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_dos_odometre_fin_gar</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:52</sys_created_on>
+            <sys_id>b398ffc347294a104008d921236d43c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle" display_value="Vehicle" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">bf98ffc347294a104008d921236d43b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicule_remorque</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:52</sys_created_on>
+            <sys_id>bb98ffc347294a104008d921236d43c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle" display_value="Vehicle" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="c588bf830d294a10c43a15aee9b30896">bf98ffc347294a104008d921236d43b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Vehicle</caption>
+            <header>false</header>
+            <name>x_982322_technic_2_sosqtdsr_tam</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-18 19:49:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf98ffc347294a104008d921236d43b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_technic_2_sosqtdsr_tam</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_section_bf98ffc347294a104008d921236d43b5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-18 19:49:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Technical Assistance Management 1" name="workspace-technical-assistance-management-1">c588bf830d294a10c43a15aee9b30896</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

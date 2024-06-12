@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ac8e1d8e47dd8a104008d921236d4362" extends="sys_import_set_row" label="contact" max_length="40" name="x_982322_technic_2_ihub_import_c6d999c647dd8a104008d921236d4381" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_PORTABLE" label="C_CONTACT_PORTABLE" max_length="40" name="u_c_contact_portable" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CTCT_ST_ID" label="C_CTCT_ST_ID" max_length="40" name="u_c_ctct_st_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_PRENOM" label="C_CONTACT_PRENOM" max_length="40" name="u_c_contact_prenom" type="string"/>
+        <element attributes="import_attribute_name=D_CHANGE_DT" label="D_CHANGE_DT" max_length="40" name="u_d_change_dt" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CTCT_TYPE_ID" label="C_CTCT_TYPE_ID" max_length="40" name="u_c_ctct_type_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_NOM" label="C_CONTACT_NOM" max_length="40" name="u_c_contact_nom" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_TELEPHONE" label="C_CONTACT_TELEPHONE" max_length="40" name="u_c_contact_telephone" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_FAX" label="C_CONTACT_FAX" max_length="40" name="u_c_contact_fax" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=N_CONTACT_ID" label="N_CONTACT_ID" max_length="40" name="u_n_contact_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=D_CREATION" label="D_CREATION" max_length="40" name="u_d_creation" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_EMAIL" label="C_CONTACT_EMAIL" max_length="40" name="u_c_contact_email" type="string"/>
+        <element attributes="import_attribute_name=C_CONTACT_STATUT" label="C_CONTACT_STATUT" max_length="40" name="u_c_contact_statut" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CTCT_CIVILITE" label="C_CTCT_CIVILITE" max_length="40" name="u_c_ctct_civilite" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=N_CLIENT_ID" label="N_CLIENT_ID" max_length="40" name="u_n_client_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C_PSA_ID" label="C_PSA_ID" max_length="40" name="u_c_psa_id" type="string"/>
+    </element>
+</database>

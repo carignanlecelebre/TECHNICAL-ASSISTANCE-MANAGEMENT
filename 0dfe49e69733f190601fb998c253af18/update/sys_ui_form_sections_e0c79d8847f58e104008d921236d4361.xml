@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e0c79d8847f58e104008d921236d4361" sys_domain="global" table="sn_customerservice_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:40:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60c79d8847f58e104008d921236d4365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_case" name="sn_customerservice_case" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">e0c79d8847f58e104008d921236d4361</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sn_customerservice_case" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">60c79d8847f58e104008d921236d4364</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:40:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:40:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64c7dd8847f58e104008d921236d4339</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_case" name="sn_customerservice_case" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">e0c79d8847f58e104008d921236d4361</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="sn_customerservice_case" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">24c7dd8847f58e104008d921236d4338</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:40:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:40:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38c7dd8847f58e104008d921236d434c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_case" name="sn_customerservice_case" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">e0c79d8847f58e104008d921236d4361</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="sn_customerservice_case" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">e4c7dd8847f58e104008d921236d434b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:40:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:40:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3cc7dd8847f58e104008d921236d4352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_customerservice_case" name="sn_customerservice_case" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">e0c79d8847f58e104008d921236d4361</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="sn_customerservice_case" sys_domain="global" view="81b7198808f58e1030059f5c61d3f049">f8c7dd8847f58e104008d921236d4351</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:40:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_customerservice_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-21 10:40:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0c79d8847f58e104008d921236d4361</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_customerservice_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e0c79d8847f58e104008d921236d4361</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-21 10:40:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Technical Assistance Management 2" name="workspace-technical-assistance-management-2">81b7198808f58e1030059f5c61d3f049</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
