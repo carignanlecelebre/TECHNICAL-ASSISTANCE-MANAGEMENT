@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE">
+        <condition_script><![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group/>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>IHUB_SOURCE_TEMP_MAPPING</name>
+        <order>50</order>
+        <source_sys_rte_eb_entity display_value="Source_x_982322_technic_2_ihub_import_718b5d7693364210fac2b1dcebba10d2">e35221fe93364210fac2b1dcebba10dd</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 17:36:56</sys_created_on>
+        <sys_id>1f23e13293764210fac2b1dcebba10b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_SOURCE_TEMP_MAPPING</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="sys_users integration_etl_ihub">a752217693364210fac2b1dcebba10fe</sys_rte_eb_definition>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_1f23e13293764210fac2b1dcebba10b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 17:36:56</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_sys_user">c323e13293764210fac2b1dcebba105e</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+</record_update>

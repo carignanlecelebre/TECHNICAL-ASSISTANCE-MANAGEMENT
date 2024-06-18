@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for sys_users integration</description>
+        <name>sys_users integration_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="sys_users integration_etl_ihub">a752217693364210fac2b1dcebba10fe</robust_transform_engine>
+        <source_table>x_982322_technic_2_ihub_import_718b5d7693364210fac2b1dcebba10d2</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 17:33:25</sys_created_on>
+        <sys_id>2352617693364210fac2b1dcebba1002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_users integration_rte_ihub</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_2352617693364210fac2b1dcebba1002</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 17:33:25</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>
