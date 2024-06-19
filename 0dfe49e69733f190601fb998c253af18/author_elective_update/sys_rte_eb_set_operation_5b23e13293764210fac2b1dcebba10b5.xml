@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_set_operation">
+    <sys_rte_eb_set_operation action="DELETE">
+        <conditional_fields/>
+        <conditional_script><![CDATA[/* Example Script
+(function(batch, output) {
+    for (var i = 0; i < batch.length; i++) {
+        
+        // step1: access the input variables
+        var a = batch[i].input;
+
+        // step2: your script code goes here
+        // based on the input variables assign variable 'b' to true or false.
+        var b = true; // or false;
+
+        // step3: set the output for each element
+        output[i] = b;
+    }
+})(batch, output);
+*/
+(function(batch, output) {
+    // add your code here
+    
+})(batch, output);]]></conditional_script>
+        <is_conditional>false</is_conditional>
+        <name>SET_sn_ihub_target_name</name>
+        <operation_group/>
+        <order>0</order>
+        <overwrite_existing_value>false</overwrite_existing_value>
+        <set_value/>
+        <source_sys_rte_eb_field/>
+        <source_sys_rte_eb_fields/>
+        <sys_class_name>sys_rte_eb_set_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 17:36:56</sys_created_on>
+        <sys_id>5b23e13293764210fac2b1dcebba10b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SET_sn_ihub_target_name</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="sys_users integration_etl_ihub">a752217693364210fac2b1dcebba10fe</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_sys_user">c323e13293764210fac2b1dcebba105e</sys_rte_eb_entity>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_rte_eb_set_operation_5b23e13293764210fac2b1dcebba10b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 17:36:56</sys_updated_on>
+        <target_sys_rte_eb_field display_value="sn_ihub_target_name">4b23e13293764210fac2b1dcebba108a</target_sys_rte_eb_field>
+        <target_sys_rte_eb_fields/>
+        <type display_value="Set">c588011e730000102b6265a751ab9e4a</type>
+    </sys_rte_eb_set_operation>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>319d8f49dbee795805ef172913961922</instance_id>
+        <instance_name>dev211978</instance_name>
+        <name>sys_rte_eb_set_operation_5b23e13293764210fac2b1dcebba10b5</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_rte_eb_set_operation"&gt;&lt;sys_rte_eb_set_operation action="INSERT_OR_UPDATE"&gt;&lt;conditional_fields/&gt;&lt;conditional_script&gt;&lt;![CDATA[/* Example Script
+(function(batch, output) {
+    for (var i = 0; i &lt; batch.length; i++) {
+        
+        // step1: access the input variables
+        var a = batch[i].input;
+
+        // step2: your script code goes here
+        // based on the input variables assign variable 'b' to true or false.
+        var b = true; // or false;
+
+        // step3: set the output for each element
+        output[i] = b;
+    }
+})(batch, output);
+*/
+(function(batch, output) {
+    // add your code here
+    
+})(batch, output);]]&gt;&lt;/conditional_script&gt;&lt;is_conditional&gt;false&lt;/is_conditional&gt;&lt;name&gt;SET_sn_ihub_target_name&lt;/name&gt;&lt;operation_group/&gt;&lt;order&gt;0&lt;/order&gt;&lt;overwrite_existing_value&gt;false&lt;/overwrite_existing_value&gt;&lt;set_value/&gt;&lt;source_sys_rte_eb_field/&gt;&lt;source_sys_rte_eb_fields/&gt;&lt;sys_class_name&gt;sys_rte_eb_set_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-06-18 17:36:56&lt;/sys_created_on&gt;&lt;sys_id&gt;5b23e13293764210fac2b1dcebba10b5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;SET_sn_ihub_target_name&lt;/sys_name&gt;&lt;sys_package display_value="Technical Assistance Management" source="x_982322_technic_2"&gt;0dfe49e69733f190601fb998c253af18&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_rte_eb_definition display_value="sys_users integration_etl_ihub"&gt;a752217693364210fac2b1dcebba10fe&lt;/sys_rte_eb_definition&gt;&lt;sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_sys_user"&gt;c323e13293764210fac2b1dcebba105e&lt;/sys_rte_eb_entity&gt;&lt;sys_scope display_value="Technical Assistance Management"&gt;0dfe49e69733f190601fb998c253af18&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_rte_eb_set_operation_5b23e13293764210fac2b1dcebba10b5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-06-18 17:36:56&lt;/sys_updated_on&gt;&lt;target_sys_rte_eb_field display_value="sn_ihub_target_name"&gt;4b23e13293764210fac2b1dcebba108a&lt;/target_sys_rte_eb_field&gt;&lt;target_sys_rte_eb_fields/&gt;&lt;type display_value="Set"&gt;c588011e730000102b6265a751ab9e4a&lt;/type&gt;&lt;/sys_rte_eb_set_operation&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1559421448</payload_hash>
+        <record_name>SET_sn_ihub_target_name</record_name>
+        <reverted_from/>
+        <source>7672770693b20210fac2b1dcebba10bc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 17:36:56</sys_created_on>
+        <sys_id>1723e13293764210fac2b1dcebba10b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1902c6c58e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 17:36:56</sys_updated_on>
+        <type>RTE Entity Set Operation</type>
+        <update_guid>1b23e13200764210b9cbb6cf69b85bb6</update_guid>
+        <update_guid_history>1b23e13200764210b9cbb6cf69b85bb6:-1559421448</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 19:00:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_set_operation">sys_rte_eb_set_operation</sys_db_object>
+        <sys_id>bdf0fe977eb44830866223f01973f1c4</sys_id>
+        <sys_metadata>5b23e13293764210fac2b1dcebba10b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SET_sn_ihub_target_name</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_set_operation_5b23e13293764210fac2b1dcebba10b5</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_set_operation_5b23e13293764210fac2b1dcebba10b5">1723e13293764210fac2b1dcebba10b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 19:00:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>sn_ihub_target_identification_number</field>
+        <name>sn_ihub_target_identification_number</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 06:51:51</sys_created_on>
+        <sys_id>b18fc7e693720210fac2b1dcebba10bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_ihub_target_identification_number</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="sn_csm_business_location_external_etl_ihub">24bb03a293720210fac2b1dcebba1075</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_sn_csm_business_location_external">3d8fc7e693720210fac2b1dcebba10ba</sys_rte_eb_entity>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_b18fc7e693720210fac2b1dcebba10bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 06:51:51</sys_updated_on>
+    </sys_rte_eb_etl_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>319d8f49dbee795805ef172913961922</instance_id>
+        <instance_name>dev211978</instance_name>
+        <name>sys_rte_eb_etl_field_b18fc7e693720210fac2b1dcebba10bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field"><sys_rte_eb_etl_field action="INSERT_OR_UPDATE"><coalesce>false</coalesce><coercion_action>create</coercion_action><field>sn_ihub_target_identification_number</field><name>sn_ihub_target_identification_number</name><sys_class_name>sys_rte_eb_etl_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-18 06:51:51</sys_created_on><sys_id>b18fc7e693720210fac2b1dcebba10bd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_ihub_target_identification_number</sys_name><sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package><sys_policy/><sys_rte_eb_definition display_value="sn_csm_business_location_external_etl_ihub">24bb03a293720210fac2b1dcebba1075</sys_rte_eb_definition><sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_sn_csm_business_location_external">3d8fc7e693720210fac2b1dcebba10ba</sys_rte_eb_entity><sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope><sys_update_name>sys_rte_eb_etl_field_b18fc7e693720210fac2b1dcebba10bd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-18 06:51:51</sys_updated_on></sys_rte_eb_etl_field></record_update>]]></payload>
+        <payload_hash>784339704</payload_hash>
+        <record_name>sn_ihub_target_identification_number</record_name>
+        <reverted_from/>
+        <source>7672770693b20210fac2b1dcebba10bc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 06:51:51</sys_created_on>
+        <sys_id>318fc7e693720210fac2b1dcebba10bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1902a1dc1f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 06:51:51</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>358fc7e64f72021030fee10636fef2be</update_guid>
+        <update_guid_history>358fc7e64f72021030fee10636fef2be:784339704</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 06:54:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>1fa2f931f56646288a4c58ce7f9fa640</sys_id>
+        <sys_metadata>b18fc7e693720210fac2b1dcebba10bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_ihub_target_identification_number</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_b18fc7e693720210fac2b1dcebba10bd</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_b18fc7e693720210fac2b1dcebba10bd">318fc7e693720210fac2b1dcebba10bf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 06:54:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
