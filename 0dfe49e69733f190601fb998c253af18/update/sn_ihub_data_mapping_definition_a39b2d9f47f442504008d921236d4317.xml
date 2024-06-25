@@ -3,7 +3,7 @@
         <integration_table>sys_data_source</integration_table>
         <published_source_structure/>
         <record_id>d8282d5b47f442504008d921236d439d</record_id>
-        <source_structure display_value="ih_import_FDeb9b2d9fbef44250d9562c82cd450c15">6f9b2d9f47f442504008d921236d4315</source_structure>
+        <source_structure display_value="">6f9b2d9f47f442504008d921236d4315</source_structure>
         <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-12 21:25:13</sys_created_on>

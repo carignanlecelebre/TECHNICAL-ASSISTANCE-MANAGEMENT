@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="cd6397d0473802104008d921236d43ce" extends="core_company" label="Account" max_length="40" name="customer_account" text_index="true" type="collection">
+    <element audit="true" db_object_id="cd6397d0473802104008d921236d43ce" extends="core_company" label="Compte" max_length="40" name="customer_account" text_index="true" type="collection">
         <element label="New Field 1" max_length="40" name="x_982322_technic_2_new_field_1" type="string"/>
     </element>
 </database>

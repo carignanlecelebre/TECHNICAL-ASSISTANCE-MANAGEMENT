@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="04acd7ea93b20210fac2b1dcebba102c" extends="sys_import_set_row" label="sn_csm_business_location_external_dealer" max_length="40" name="x_982322_technic_2_ihub_import_081b536a93b20210fac2b1dcebba10d2" type="collection">
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Postal_code_zip" label="Postal_code_zip" max_length="40" name="u_postal_code_zip" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Truck" label="Franchise Truck" max_length="40" name="u_franchise_truck" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Lancia" label="Lancia" max_length="40" name="u_lancia" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=City" label="City" max_length="40" name="u_city" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Fiat" label="Franchise Fiat" max_length="40" name="u_franchise_fiat" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Constante" label="Constante" max_length="40" name="u_constante" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Alfa Romeo" label="Alfa Romeo" max_length="40" name="u_alfa_romeo" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company name" label="Company name" max_length="40" name="u_company_name" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Has a franchise" label="Has a franchise" max_length="63" name="u_has_a_franchise" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fiat" label="Fiat" max_length="40" name="u_fiat" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Jeep" label="Franchise Jeep" max_length="40" name="u_franchise_jeep" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Alfa" label="Franchise Alfa" max_length="40" name="u_franchise_alfa" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Dodge" label="Dodge" max_length="40" name="u_dodge" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Chrysler" label="Chrysler" max_length="40" name="u_chrysler" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Jeep" label="Jeep" max_length="40" name="u_jeep" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Dodge" label="Franchise Dodge" max_length="40" name="u_franchise_dodge" type="string"/>
-        <element attributes="import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="integer"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Lancia" label="Franchise Lancia" max_length="40" name="u_franchise_lancia" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Address 2" label="Address 2" max_length="40" name="u_address_2" type="string"/>
-        <element attributes="import_attribute_name=BC_ID" label="BC_ID" max_length="40" name="u_bc_id" type="integer"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Truck" label="Truck" max_length="40" name="u_truck" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Truck" label="Franchise Truck" max_length="40" name="u_franchise_truck" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Address 1" label="Address 1" max_length="40" name="u_address_1" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Constante2" label="Constante2" max_length="40" name="u_constante2" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Chrysler" label="Franchise Chrysler" max_length="40" name="u_franchise_chrysler" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Parent" label="Parent" max_length="40" name="u_parent" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Lancia" label="Lancia" max_length="40" name="u_lancia" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Address 1" label="Address 1" max_length="40" name="u_address_1" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Dealer code" label="Dealer code" max_length="40" name="u_dealer_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Alfa Romeo" label="Alfa Romeo" max_length="40" name="u_alfa_romeo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fiat" label="Fiat" max_length="40" name="u_fiat" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Chrysler" label="Chrysler" max_length="40" name="u_chrysler" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Address 2" label="Address 2" max_length="40" name="u_address_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Jeep" label="Jeep" max_length="40" name="u_jeep" type="string"/>
+        <element attributes="import_attribute_name=BC_ID" label="BC_ID" max_length="40" name="u_bc_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=City" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Constante2" label="Constante2" max_length="40" name="u_constante2" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company name" label="Company name" max_length="40" name="u_company_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Jeep" label="Franchise Jeep" max_length="40" name="u_franchise_jeep" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Dodge" label="Franchise Dodge" max_length="40" name="u_franchise_dodge" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Alfa" label="Franchise Alfa" max_length="40" name="u_franchise_alfa" type="string"/>
+        <element attributes="import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Postal_code_zip" label="Postal_code_zip" max_length="40" name="u_postal_code_zip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Truck" label="Truck" max_length="40" name="u_truck" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Chrysler" label="Franchise Chrysler" max_length="40" name="u_franchise_chrysler" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Franchise Fiat" label="Franchise Fiat" max_length="40" name="u_franchise_fiat" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
     </element>
 </database>

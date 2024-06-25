@@ -41,7 +41,7 @@
         <update_guid_history>ea698fcd21a18e50c2310b2d62743b97:-400014917</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_982322_technic_2_tam_tickets.x_982322_technic_2.tam_technicalassistance_type_u">46ca438147e18e504008d921236d43d0</sys_audit_delete>
+        <sys_audit_delete display_value="">46ca438147e18e504008d921236d43d0</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-12 11:21:45</sys_created_on>

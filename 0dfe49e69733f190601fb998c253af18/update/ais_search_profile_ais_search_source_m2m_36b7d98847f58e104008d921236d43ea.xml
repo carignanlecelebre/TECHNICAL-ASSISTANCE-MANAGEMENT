@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
     <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
         <profile display_value="technical-assistance-management-did Search Profile">c9b71988c3f58e107611e5316a8efd52</profile>
-        <search_source display_value="Cases">95cefbc287161110d3274006dabb35cc</search_source>
+        <search_source display_value="">95cefbc287161110d3274006dabb35cc</search_source>
         <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-21 10:40:51</sys_created_on>

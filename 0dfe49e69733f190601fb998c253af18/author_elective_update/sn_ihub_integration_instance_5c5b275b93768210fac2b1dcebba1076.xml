@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>essai</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>essai</name>
+        <record_id>505b275b93768210fac2b1dcebba1078</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 16:48:43</sys_created_on>
+        <sys_id>5c5b275b93768210fac2b1dcebba1076</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>essai</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_5c5b275b93768210fac2b1dcebba1076</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 16:48:43</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>319d8f49dbee795805ef172913961922</instance_id>
+        <instance_name>dev211978</instance_name>
+        <name>sn_ihub_integration_instance_5c5b275b93768210fac2b1dcebba1076</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>essai</description><integration_table>sys_data_source</integration_table><integration_type>data_import</integration_type><internal_name/><name>essai</name><record_id>505b275b93768210fac2b1dcebba1078</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 16:48:43</sys_created_on><sys_id>5c5b275b93768210fac2b1dcebba1076</sys_id><sys_mod_count>1</sys_mod_count><sys_name>essai</sys_name><sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package><sys_policy/><sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope><sys_update_name>sn_ihub_integration_instance_5c5b275b93768210fac2b1dcebba1076</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 16:48:43</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>768477644</payload_hash>
+        <record_name>essai</record_name>
+        <reverted_from/>
+        <source>1f278f4393760210fac2b1dcebba106c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 16:48:43</sys_created_on>
+        <sys_id>545b275b93768210fac2b1dcebba1082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190368ced610000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 16:48:43</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>585b275bdd768210168b2e9161b44181</update_guid>
+        <update_guid_history>585b275bdd768210168b2e9161b44181:768477644</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="essai">bb7b675b93768210fac2b1dcebba10c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 16:49:31</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>67320540f73e4a0aac4a880756f87b84</sys_id>
+        <sys_metadata>5c5b275b93768210fac2b1dcebba1076</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>essai</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_5c5b275b93768210fac2b1dcebba1076</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_5c5b275b93768210fac2b1dcebba1076">545b275b93768210fac2b1dcebba1082</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 16:49:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

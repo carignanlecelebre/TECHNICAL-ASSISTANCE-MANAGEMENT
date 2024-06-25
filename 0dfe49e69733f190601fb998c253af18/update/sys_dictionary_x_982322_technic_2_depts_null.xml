@@ -51,7 +51,7 @@
         <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
         <sys_policy/>
         <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
-        <sys_update_name>sys_dictionary_x_982322_technic_2_depts_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_982322_technic_2_depts_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-04-18 19:49:33</sys_updated_on>
         <table_reference>false</table_reference>

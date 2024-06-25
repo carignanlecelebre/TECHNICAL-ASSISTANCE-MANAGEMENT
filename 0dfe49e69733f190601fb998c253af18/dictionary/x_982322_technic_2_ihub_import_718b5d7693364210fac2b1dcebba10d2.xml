@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8173a93293764210fac2b1dcebba1093" extends="sys_import_set_row" label="sys_users integration" max_length="40" name="x_982322_technic_2_ihub_import_718b5d7693364210fac2b1dcebba10d2" type="collection">
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Job code" label="Job code" max_length="40" name="u_job_code" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Job name" label="Job name" max_length="40" name="u_job_name" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Business Phone" label="Business Phone" max_length="40" name="u_business_phone" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Name" label="Last Name" max_length="40" name="u_last_name" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=User ID" label="User ID" max_length="40" name="u_user_id" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Business Phone" label="Business Phone" max_length="40" name="u_business_phone" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Name" label="Last Name" max_length="40" name="u_last_name" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=First Name" label="First Name" max_length="40" name="u_first_name" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Mobile Phone" label="Mobile Phone" max_length="40" name="u_mobile_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Job code" label="Job code" max_length="40" name="u_job_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User ID" label="User ID" max_length="40" name="u_user_id" type="string"/>
     </element>
 </database>

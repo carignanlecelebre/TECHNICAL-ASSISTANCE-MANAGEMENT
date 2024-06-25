@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="7d77dd1b47660e104008d921236d4367" label="did_cause" max_length="40" name="x_982322_technic_2_did_cause" type="collection">
         <element label="comment" max_length="40" name="comment" type="string"/>
-        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=level1;level2,ref_ac_columns_search=true,ref_ac_display_value=false&#13;&#10;,attribute=true,glide.ui.ref_ac.startswith=false,did_cause.autocomplete.contains=true,ref_ac_order_by=level1&#13;&#10;" choice="2" hint="cause select" label="cause_did" max_length="40" name="cause_did" reference="x_982322_technic_2_cause" type="reference">
+        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=level1;level2,ref_ac_columns_search=true,ref_ac_display_value=false&#13;&#10;,attribute=true,glide.ui.ref_ac.startswith=false,did_cause.autocomplete.contains=true,ref_ac_order_by=level1" choice="2" hint="cause select" label="cause_did" max_length="40" name="cause_did" reference="x_982322_technic_2_cause" type="reference">
             <choice/>
         </element>
+        <index name="index">
+            <element name="cause_did"/>
+        </index>
     </element>
 </database>

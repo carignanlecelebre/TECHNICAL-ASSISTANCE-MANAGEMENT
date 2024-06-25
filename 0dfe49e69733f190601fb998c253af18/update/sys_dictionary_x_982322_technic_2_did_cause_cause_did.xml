@@ -3,8 +3,7 @@
         <active>true</active>
         <array>false</array>
         <attributes>ref_auto_completer=AJAXTableCompleter,ref_ac_columns=level1;level2,ref_ac_columns_search=true,ref_ac_display_value=false&#13;
-,attribute=true,glide.ui.ref_ac.startswith=false,did_cause.autocomplete.contains=true,ref_ac_order_by=level1&#13;
-</attributes>
+,attribute=true,glide.ui.ref_ac.startswith=false,did_cause.autocomplete.contains=true,ref_ac_order_by=level1</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 

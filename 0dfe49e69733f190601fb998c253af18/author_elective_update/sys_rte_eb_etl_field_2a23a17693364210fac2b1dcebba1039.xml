@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>agent_status</field>
+        <name>Work agent status</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 17:36:54</sys_created_on>
+        <sys_id>2a23a17693364210fac2b1dcebba1039</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work agent status</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="sys_users integration_etl_ihub">a752217693364210fac2b1dcebba10fe</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Target_sys_user">b35221fe93364210fac2b1dcebba10f2</sys_rte_eb_entity>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_2a23a17693364210fac2b1dcebba1039</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 17:36:54</sys_updated_on>
+    </sys_rte_eb_etl_field>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>319d8f49dbee795805ef172913961922</instance_id>
+        <instance_name>dev211978</instance_name>
+        <name>sys_rte_eb_etl_field_2a23a17693364210fac2b1dcebba1039</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>agent_status</field>
+        <name>Work agent status</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 17:36:54</sys_created_on>
+        <sys_id>2a23a17693364210fac2b1dcebba1039</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work agent status</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="sys_users integration_etl_ihub">a752217693364210fac2b1dcebba10fe</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Target_sys_user">b35221fe93364210fac2b1dcebba10f2</sys_rte_eb_entity>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_2a23a17693364210fac2b1dcebba1039</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 17:36:54</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>]]></payload>
+        <payload_hash>-1857901217</payload_hash>
+        <record_name>Work agent status</record_name>
+        <reverted_from/>
+        <source>38c9030f93b60210fac2b1dcebba10a0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-19 19:43:52</sys_created_on>
+        <sys_id>10d98b0f93b60210fac2b1dcebba10a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1903206ec6a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-19 19:43:52</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>dcd98b0fe1b60210dcc9467fb6c102a5</update_guid>
+        <update_guid_history>dcd98b0fe1b60210dcc9467fb6c102a5:-1857901217</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-19 20:11:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>0b56febf89ee4bb486d186205e898290</sys_id>
+        <sys_metadata>2a23a17693364210fac2b1dcebba1039</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work agent status</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_2a23a17693364210fac2b1dcebba1039</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_2a23a17693364210fac2b1dcebba1039">10d98b0f93b60210fac2b1dcebba10a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-19 20:11:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

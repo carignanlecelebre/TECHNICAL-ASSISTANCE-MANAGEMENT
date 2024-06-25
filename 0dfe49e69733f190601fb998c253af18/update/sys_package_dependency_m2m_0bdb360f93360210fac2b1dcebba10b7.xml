@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System (apps/system_user)" source="apps/system_user">3a54bb00e412021008dda4ccc40080b6</dependency>
+        <min_version/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-19 18:42:54</sys_created_on>
+        <sys_id>0bdb360f93360210fac2b1dcebba10b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-19 18:42:54</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

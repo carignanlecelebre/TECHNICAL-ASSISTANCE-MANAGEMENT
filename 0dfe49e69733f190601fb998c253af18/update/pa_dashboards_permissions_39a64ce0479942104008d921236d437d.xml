@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
     <pa_dashboards_permissions action="INSERT_OR_UPDATE">
-        <dashboard display_value="Problem Management">42205102bf201100b96dac808c07392a</dashboard>
+        <dashboard display_value="">42205102bf201100b96dac808c07392a</dashboard>
         <delete>true</delete>
         <group/>
         <identity>pa_power_user</identity>
