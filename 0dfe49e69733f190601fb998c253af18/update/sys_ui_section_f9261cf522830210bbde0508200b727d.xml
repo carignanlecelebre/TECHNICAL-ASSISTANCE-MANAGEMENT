@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f9261cf522830210bbde0508200b727d" sys_domain="global" table="sys_user" version="3" view="4_custom_portal_settings_x_982322_technic_2">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-27 19:42:17</sys_created_on>
+            <sys_id>71261cf5a6830210804e4781cc45107e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="bd261cf533830210fd04607871a4e47d">f9261cf522830210bbde0508200b727d</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-27 19:42:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-27 19:42:17</sys_created_on>
+            <sys_id>35261cf5ec830210836fefdf5c5eab7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="bd261cf533830210fd04607871a4e47d">f9261cf522830210bbde0508200b727d</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-27 19:42:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-27 19:42:17</sys_created_on>
+            <sys_id>75261cf5d383021074b36463a878157c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="bd261cf533830210fd04607871a4e47d">f9261cf522830210bbde0508200b727d</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-27 19:42:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-06-27 19:42:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9261cf522830210bbde0508200b727d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_section_f9261cf522830210bbde0508200b727d</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-06-27 19:42:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="4_custom_portal_settings_x_982322_technic_2" name="4_custom_portal_settings_x_982322_technic_2">bd261cf533830210fd04607871a4e47d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
