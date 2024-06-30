@@ -5,6 +5,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Job name" label="Job name" max_length="40" name="u_job_name" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_TELEPHONE" label="C_CONTACT_TELEPHONE" max_length="40" name="u_c_contact_telephone" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_PRENOM" label="C_CONTACT_PRENOM" max_length="40" name="u_c_contact_prenom" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=K" label="K" max_length="40" name="u_k" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Name of the company" label="Name of the company" max_length="40" name="u_name_of_the_company" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=C_CONTACT_EMAIL" label="C_CONTACT_EMAIL" max_length="40" name="u_c_contact_email" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=N_CLIENT_ID" label="N_CLIENT_ID" max_length="40" name="u_n_client_id" type="string"/>
