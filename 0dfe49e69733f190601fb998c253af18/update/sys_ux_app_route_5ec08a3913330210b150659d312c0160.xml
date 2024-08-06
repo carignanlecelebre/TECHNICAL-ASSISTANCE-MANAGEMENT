@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Custom Portal App Config">c6c04a3993330210fac2b1dcebba10dc</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Preferences</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Settings Page">96c08a39143302106e2fc1f3db63c861</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>cketv4fts00003g8yxah9e3hs</route_type>
+        <screen_type display_value="Preferences">d6c08a392b330210cd055cc043b6f560</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-08-04 10:15:13</sys_created_on>
+        <sys_id>5ec08a3913330210b150659d312c0160</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preferences</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_app_route_5ec08a3913330210b150659d312c0160</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-08-04 10:15:13</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=5ec08a3913330210b150659d312c0160"/>
+</record_update>

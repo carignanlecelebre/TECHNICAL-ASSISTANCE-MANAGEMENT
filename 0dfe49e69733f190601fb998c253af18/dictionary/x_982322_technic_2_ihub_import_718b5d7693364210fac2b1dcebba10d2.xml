@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="8173a93293764210fac2b1dcebba1093" extends="sys_import_set_row" label="sys_users integration" max_length="40" name="x_982322_technic_2_ihub_import_718b5d7693364210fac2b1dcebba10d2" type="collection">
+    <element db_object_id="8173a93293764210fac2b1dcebba1093" extends="sys_import_set_row" label="sys_users integration" max_length="40" name="x_982322_technic_2_ihub_import_718b5d7693364210fac2b1dcebba10d2" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Job name" label="Job name" max_length="40" name="u_job_name" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Business Phone" label="Business Phone" max_length="40" name="u_business_phone" type="string"/>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Customer symptom" section_id="97b6e72893330210fac2b1dcebba10f7" sys_domain="global" table="x_982322_technic_2_sosqtdsr_tam" version="3" view="workspace-technical-assistance-management-072024-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>n_branch_pointer</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 20:28:13</sys_created_on>
+            <sys_id>d3b6e72893330210fac2b1dcebba10fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer symptom" display_value="Customer symptom" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">97b6e72893330210fac2b1dcebba10f7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 20:28:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_dos_constatation_la</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 20:28:13</sys_created_on>
+            <sys_id>53b6e72893330210fac2b1dcebba10f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer symptom" display_value="Customer symptom" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">97b6e72893330210fac2b1dcebba10f7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 20:28:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_dos_incident_reproduit</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 20:28:13</sys_created_on>
+            <sys_id>d7b6e72893330210fac2b1dcebba10f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer symptom" display_value="Customer symptom" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">97b6e72893330210fac2b1dcebba10f7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 20:28:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 20:28:13</sys_created_on>
+            <sys_id>5fb6e72893330210fac2b1dcebba10f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Customer symptom" display_value="Customer symptom" name="x_982322_technic_2_sosqtdsr_tam" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">97b6e72893330210fac2b1dcebba10f7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 20:28:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Customer symptom</caption>
+            <header>false</header>
+            <name>x_982322_technic_2_sosqtdsr_tam</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 20:28:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97b6e72893330210fac2b1dcebba10f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_technic_2_sosqtdsr_tam</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_section_97b6e72893330210fac2b1dcebba10f7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 20:28:13</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Technical Assistance Management 072024 0" name="workspace-technical-assistance-management-072024-0">5896e3e4f1330210d652d1455b0a32a1</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

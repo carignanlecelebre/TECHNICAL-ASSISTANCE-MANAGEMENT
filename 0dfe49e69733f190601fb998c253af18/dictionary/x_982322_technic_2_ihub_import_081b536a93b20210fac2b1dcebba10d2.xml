@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="04acd7ea93b20210fac2b1dcebba102c" extends="sys_import_set_row" label="sn_csm_business_location_external_dealer" max_length="40" name="x_982322_technic_2_ihub_import_081b536a93b20210fac2b1dcebba10d2" type="collection">
+    <element db_object_id="04acd7ea93b20210fac2b1dcebba102c" extends="sys_import_set_row" label="sn_csm_business_location_external_dealer" max_length="40" name="x_982322_technic_2_ihub_import_081b536a93b20210fac2b1dcebba10d2" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Constante" label="Constante" max_length="40" name="u_constante" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Has a franchise" label="Has a franchise" max_length="63" name="u_has_a_franchise" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Dodge" label="Dodge" max_length="40" name="u_dodge" type="string"/>

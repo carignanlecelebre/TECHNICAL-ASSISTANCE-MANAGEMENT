@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="ee435d9f47260e104008d921236d43f4" label="cause" max_length="40" name="x_982322_technic_2_cause" type="collection">
+    <element db_object_id="ee435d9f47260e104008d921236d43f4" label="cause" max_length="40" name="x_982322_technic_2_cause" text_index="true" type="collection">
         <element display="true" label="level2" max_length="40" name="level2" type="string"/>
         <element label="level1" max_length="40" name="level1" type="string"/>
         <element label="idlevel" max_length="40" name="idlevel" type="integer"/>

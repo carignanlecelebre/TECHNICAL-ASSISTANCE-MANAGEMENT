@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Technical Assistance Management 072024">1896e3e4f23302109f18e4ba921463ab</page>
+        <required_translations>[ {
+  "message" : "New Case",
+  "comment" : ""
+}, {
+  "message" : "New account_dealers",
+  "comment" : ""
+}, {
+  "message" : "New accounts",
+  "comment" : ""
+}, {
+  "message" : "New case_mine",
+  "comment" : ""
+}, {
+  "message" : "New cause",
+  "comment" : ""
+}, {
+  "message" : "New commune",
+  "comment" : ""
+}, {
+  "message" : "New contact",
+  "comment" : ""
+}, {
+  "message" : "New customer_symptom_level1",
+  "comment" : ""
+}, {
+  "message" : "New dealer_networks",
+  "comment" : ""
+}, {
+  "message" : "New depts",
+  "comment" : ""
+}, {
+  "message" : "New did_cause",
+  "comment" : ""
+}, {
+  "message" : "New members",
+  "comment" : ""
+}, {
+  "message" : "New sn_csm_business_location_external",
+  "comment" : ""
+}, {
+  "message" : "New sn_csm_business_location_external_dealer",
+  "comment" : ""
+}, {
+  "message" : "New sn_customerservice_did",
+  "comment" : ""
+}, {
+  "message" : "New sosqtdsr_tam",
+  "comment" : ""
+}, {
+  "message" : "New sys_users integration",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 20:27:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>d896e3e41d3302107bab5a8b33c0cb9c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_page_property_d896e3e41d3302107bab5a8b33c0cb9c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 20:27:46</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_982322_technic_2.1896e3e4f23302109f18e4ba921463ab.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Case"},"routeInfo":{"route":"record","fields":{"table":"sn_customerservice_case","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"sn_customerservice_case","canCreate":true}}},{"label":{"translatable":true,"message":"New accounts"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_ihub_import_0f59bffb477446504008d921236d4391","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_ihub_import_0f59bffb477446504008d921236d4391","canCreate":true}}},{"label":{"translatable":true,"message":"New account_dealers"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_ihub_import_94282d5b47f442504008d921236d439c","canCreate":true}}},{"label":{"translatable":true,"message":"New case_mine"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_case_mine","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_case_mine","canCreate":true}}},{"label":{"translatable":true,"message":"New cause"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_cause","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_cause","canCreate":true}}},{"label":{"translatable":true,"message":"New commune"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_commune","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_commune","canCreate":true}}},{"label":{"translatable":true,"message":"New contact"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_ihub_import_c6d999c647dd8a104008d921236d4381","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_ihub_import_c6d999c647dd8a104008d921236d4381","canCreate":true}}},{"label":{"translatable":true,"message":"New customer_symptom_level1"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_customer_symptom_level1","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_customer_symptom_level1","canCreate":true}}},{"label":{"translatable":true,"message":"New dealer_networks"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_dealer_networks","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_dealer_networks","canCreate":true}}},{"label":{"translatable":true,"message":"New depts"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_depts","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_depts","canCreate":true}}},{"label":{"translatable":true,"message":"New did_cause"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_did_cause","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_did_cause","canCreate":true}}},{"label":{"translatable":true,"message":"New members"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_ihub_import_2a8dc65293c78210fac2b1dcebba1081","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_ihub_import_2a8dc65293c78210fac2b1dcebba1081","canCreate":true}}},{"label":{"translatable":true,"message":"New sn_csm_business_location_external"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_ihub_import_95364faa93320210fac2b1dcebba100a","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_ihub_import_95364faa93320210fac2b1dcebba100a","canCreate":true}}},{"label":{"translatable":true,"message":"New sn_csm_business_location_external_dealer"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_ihub_import_081b536a93b20210fac2b1dcebba10d2","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_ihub_import_081b536a93b20210fac2b1dcebba10d2","canCreate":true}}},{"label":{"translatable":true,"message":"New sn_customerservice_did"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_sn_customerservice_did","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_sn_customerservice_did","canCreate":true}}},{"label":{"translatable":true,"message":"New sosqtdsr_tam"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_sosqtdsr_tam","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_sosqtdsr_tam","canCreate":true}}},{"label":{"translatable":true,"message":"New sys_users integration"},"routeInfo":{"route":"record","fields":{"table":"x_982322_technic_2_ihub_import_718b5d7693364210fac2b1dcebba10d2","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_982322_technic_2_ihub_import_718b5d7693364210fac2b1dcebba10d2","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=d896e3e41d3302107bab5a8b33c0cb9c"/>
+</record_update>

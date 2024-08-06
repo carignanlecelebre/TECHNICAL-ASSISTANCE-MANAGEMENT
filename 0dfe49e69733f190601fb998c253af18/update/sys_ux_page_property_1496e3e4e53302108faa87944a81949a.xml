@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Technical Assistance Management 072024">1896e3e4f23302109f18e4ba921463ab</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 20:27:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>1496e3e4e53302108faa87944a81949a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_page_property_1496e3e4e53302108faa87944a81949a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 20:27:38</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_982322_technic_2.1896e3e4f23302109f18e4ba921463ab.root.listConfigId</unique_name>
+        <value>8696a7e493330210fac2b1dcebba102c</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=1496e3e4e53302108faa87944a81949a"/>
+</record_update>
