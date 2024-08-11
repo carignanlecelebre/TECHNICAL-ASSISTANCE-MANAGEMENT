@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure display_value="ih_import_FDa32eef1f487682100fadaf3e9374077b">272eef1f93768210fac2b1dcebba107b</published_source_structure>
+        <record_id>841b536a93b20210fac2b1dcebba10d3</record_id>
+        <source_structure display_value="ih_import_FD0a1947e2f343021078106a94815f286a">8a1947e293430210fac2b1dcebba106a</source_structure>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 07:42:48</sys_created_on>
+        <sys_id>883b176a93b20210fac2b1dcebba10d1</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_883b176a93b20210fac2b1dcebba10d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-30 16:39:27</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+</record_update>

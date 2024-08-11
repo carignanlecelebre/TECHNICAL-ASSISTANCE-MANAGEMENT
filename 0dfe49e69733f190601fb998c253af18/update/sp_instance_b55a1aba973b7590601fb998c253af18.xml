@@ -39,7 +39,6 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>Logo_Stellantis_Pos_RGB.png</file_name>
         <hash>5a53126451f8b3f7adfbe70045863c988ec1725f5dea872738117f42835073da</hash>
         <image_height>1044</image_height>

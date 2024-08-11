@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="009d4fe893074210fac2b1dcebba1007" extends="sn_customerservice_case" label="case_mine" max_length="40" name="x_982322_technic_2_case_mine" text_index="true" type="collection">
+        <element label="duration_task" max_length="40" name="durationtask" type="glide_duration"/>
+    </element>
+</database>

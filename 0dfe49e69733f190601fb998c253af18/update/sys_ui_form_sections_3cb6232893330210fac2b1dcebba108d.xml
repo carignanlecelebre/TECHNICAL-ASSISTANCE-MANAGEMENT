@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3cb6232893330210fac2b1dcebba108d" sys_domain="global" table="x_982322_technic_2_case_mine" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 20:28:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8b6232893330210fac2b1dcebba1091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_case_mine" name="x_982322_technic_2_case_mine" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">3cb6232893330210fac2b1dcebba108d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_case_mine" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">b8b6232893330210fac2b1dcebba1090</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 20:28:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 20:28:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70b6232893330210fac2b1dcebba10ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_case_mine" name="x_982322_technic_2_case_mine" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">3cb6232893330210fac2b1dcebba108d</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_982322_technic_2_case_mine" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">70b6232893330210fac2b1dcebba10cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 20:28:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 20:28:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38b6232893330210fac2b1dcebba10d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_case_mine" name="x_982322_technic_2_case_mine" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">3cb6232893330210fac2b1dcebba108d</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_982322_technic_2_case_mine" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">38b6232893330210fac2b1dcebba10d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 20:28:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 20:28:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4b6232893330210fac2b1dcebba10f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_case_mine" name="x_982322_technic_2_case_mine" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">3cb6232893330210fac2b1dcebba108d</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_982322_technic_2_case_mine" sys_domain="global" view="5896e3e4f1330210d652d1455b0a32a1">78b6232893330210fac2b1dcebba10d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 20:28:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_982322_technic_2_case_mine</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 20:28:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3cb6232893330210fac2b1dcebba108d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_technic_2_case_mine</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3cb6232893330210fac2b1dcebba108d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 20:28:03</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Technical Assistance Management 072024 0" name="workspace-technical-assistance-management-072024-0">5896e3e4f1330210d652d1455b0a32a1</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
     <sys_search_filter action="INSERT_OR_UPDATE">
         <active>true</active>
-        <ais_search_source display_value="Cases">95cefbc287161110d3274006dabb35cc</ais_search_source>
+        <ais_search_source display_value="">95cefbc287161110d3274006dabb35cc</ais_search_source>
         <label>Case</label>
         <name>Cases</name>
         <order>200</order>

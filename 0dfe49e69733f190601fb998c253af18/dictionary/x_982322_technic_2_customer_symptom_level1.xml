@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="34219090976c4610601fb998c253af75" label="customer_symptom_level1" max_length="40" name="x_982322_technic_2_customer_symptom_level1" text_index="true" type="collection">
-        <element label="customer symptom lev1" max_length="40" name="customer_symptom_lev1" type="insert_timestamp"/>
         <element label="description level1" max_length="40" name="description_level1" type="string"/>
+        <element label="customer symptom lev1" max_length="40" name="customer_symptom_lev1" type="insert_timestamp"/>
     </element>
 </database>

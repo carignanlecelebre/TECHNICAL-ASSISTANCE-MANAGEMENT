@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>3</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">a03d4a7b93d30210fac2b1dcebba1021</sp_column>
+        <sp_widget display_value="Portal Banner">72caf7f8adb12910f8772457eb7e59d3</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 20:07:58</sys_created_on>
+        <sys_id>60421eff93d30210fac2b1dcebba1072</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sp_instance_ais_60421eff93d30210fac2b1dcebba1072</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 20:07:58</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=60421eff93d30210fac2b1dcebba1072"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>319d8f49dbee795805ef172913961922</instance_id>
+        <instance_name>dev211978</instance_name>
+        <name>sp_instance_ais_60421eff93d30210fac2b1dcebba1072</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais"><sp_instance_ais action="INSERT_OR_UPDATE"><active>true</active><ai_search_source_filter/><class_name/><color>default</color><css/><disable_all_suggestions>false</disable_all_suggestions><glyph/><id/><order>3</order><placeholder/><roles/><search_application/><search_results_configuration/><short_description/><size>md</size><sp_column display_value="2">a03d4a7b93d30210fac2b1dcebba1021</sp_column><sp_widget display_value="Portal Banner">72caf7f8adb12910f8772457eb7e59d3</sp_widget><spell_check_font_size>xl</spell_check_font_size><sys_class_name>sp_instance_ais</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-16 20:07:58</sys_created_on><sys_id>60421eff93d30210fac2b1dcebba1072</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package><sys_policy/><sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope><sys_update_name>sp_instance_ais_60421eff93d30210fac2b1dcebba1072</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-16 20:07:58</sys_updated_on><title/><url/><widget_parameters/></sp_instance_ais><sys_translated_text action="delete_multiple" query="documentkey=60421eff93d30210fac2b1dcebba1072"/></record_update>]]></payload>
+        <payload_hash>888836078</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1f278f4393760210fac2b1dcebba106c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 20:07:58</sys_created_on>
+        <sys_id>24421eff93d30210fac2b1dcebba1074</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190bd28ae290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 20:07:58</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>28421efffad30210db1792b4b9b50f73</update_guid>
+        <update_guid_history>28421efffad30210db1792b4b9b50f73:888836078</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5ec2de3393170210fac2b1dcebba1008</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 20:10:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>700e482be4194734a262747c84706339</sys_id>
+        <sys_metadata>60421eff93d30210fac2b1dcebba1072</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_60421eff93d30210fac2b1dcebba1072</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_60421eff93d30210fac2b1dcebba1072">24421eff93d30210fac2b1dcebba1074</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 20:10:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

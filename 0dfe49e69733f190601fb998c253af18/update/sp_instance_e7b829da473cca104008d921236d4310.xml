@@ -11,7 +11,7 @@
         <short_description/>
         <size>md</size>
         <sp_column display_value="2">53e5e5d6473cca104008d921236d432e</sp_column>
-        <sp_widget display_value="listdid">58ec875597f9b110601fb998c253af86</sp_widget>
+        <sp_widget/>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-09 18:38:44</sys_created_on>

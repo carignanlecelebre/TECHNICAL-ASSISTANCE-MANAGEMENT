@@ -11,7 +11,7 @@
         <short_description/>
         <size>md</size>
         <sp_column display_value="1">c91613fd47ad42104008d921236d4395</sp_column>
-        <sp_widget display_value="Task Sign Pad">84dc2cd0532300100ad0ddeeff7b12af</sp_widget>
+        <sp_widget display_value="">84dc2cd0532300100ad0ddeeff7b12af</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-14 20:11:37</sys_created_on>

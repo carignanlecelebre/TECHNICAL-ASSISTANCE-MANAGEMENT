@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
     <ais_datasource_field_attribute action="INSERT_OR_UPDATE">
         <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
-        <datasource display_value="Case Table">808ab3ce87d21110d3274006dabb351d</datasource>
+        <datasource display_value="">808ab3ce87d21110d3274006dabb351d</datasource>
         <field>sys_updated_on</field>
         <source>sn_customerservice_case</source>
         <sys_class_name>ais_datasource_field_attribute</sys_class_name>

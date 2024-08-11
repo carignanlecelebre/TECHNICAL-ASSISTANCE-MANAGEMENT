@@ -11,7 +11,7 @@
         <short_description/>
         <size>md</size>
         <sp_column display_value="1">066c3262476686104008d921236d439c</sp_column>
-        <sp_widget display_value="Related Documents">a6c4505e530201106e33ddeeff7b1242</sp_widget>
+        <sp_widget display_value="">a6c4505e530201106e33ddeeff7b1242</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-05 19:38:51</sys_created_on>

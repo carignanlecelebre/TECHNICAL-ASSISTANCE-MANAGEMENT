@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">9ec08a39543302104b6f02c12b70454d</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">1ec08a392f330210273ea02355f4c44c</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-08-04 10:15:15</sys_created_on>
+        <sys_id>9ac08a39263302105df569f16d6c4a4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_9ac08a39263302105df569f16d6c4a4b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-08-04 10:15:15</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

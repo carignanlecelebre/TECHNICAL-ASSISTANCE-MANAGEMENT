@@ -3,7 +3,7 @@
         <child display_value="data with filter pc">45c58ed597900210601fb998c253af81</child>
         <cloned>2024-02-10 21:40:14</cloned>
         <last_validated>2024-02-10 21:40:14</last_validated>
-        <parent display_value="Data table with Filter">67a072d59361220064f572edb67ffb85</parent>
+        <parent display_value="">67a072d59361220064f572edb67ffb85</parent>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sp_widget&gt;&lt;category/&gt;&lt;client_script&gt;&lt;![CDATA[function ($scope, $location, spUtil, amb, $http) {
 	var c = this;
 	/*
