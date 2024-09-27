@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Landing Page">cff14538b23c52106bfa0fc80834bcbb</macroponent>
+        <name>Refresh landing</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+    if(event.payload.name !== 'refresh'){
+        return;
+    }
+    api.data.evam_mytasks.refresh();
+    api.data.evam_myrequests.refresh();
+    api.data.hide_content_sets_1.refresh();
+    api.data.hide_content_sets_2.refresh();
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 20:09:41</sys_created_on>
+        <sys_id>0bf14538863c52104588114be4d905ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Refresh landing</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_ux_client_script_0bf14538863c52104588114be4d905ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 20:09:41</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>
