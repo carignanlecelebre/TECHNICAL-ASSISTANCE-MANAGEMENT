@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b5caca138370121077469cb6feaad3cd" sys_domain="global" table="x_982322_technic_2_type" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-27 19:52:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6ca86538370121077469cb6feaad3c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_type" name="x_982322_technic_2_type" sys_domain="global" view="38d53f8ce412021008dda4ccc40080d7">b5caca138370121077469cb6feaad3cd</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_type" sys_domain="global" view="38d53f8ce412021008dda4ccc40080d7">42ca86538370121077469cb6feaad3bb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-27 19:52:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-27 19:52:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8aca86538370121077469cb6feaad3de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_type" name="x_982322_technic_2_type" sys_domain="global" view="38d53f8ce412021008dda4ccc40080d7">b5caca138370121077469cb6feaad3cd</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_982322_technic_2_type" sys_domain="global" view="38d53f8ce412021008dda4ccc40080d7">42ca86538370121077469cb6feaad3d8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-27 19:52:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-27 19:52:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4eca86538370121077469cb6feaad3d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_type" name="x_982322_technic_2_type" sys_domain="global" view="38d53f8ce412021008dda4ccc40080d7">b5caca138370121077469cb6feaad3cd</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_982322_technic_2_type" sys_domain="global" view="38d53f8ce412021008dda4ccc40080d7">8eca86538370121077469cb6feaad3d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-27 19:52:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-27 19:52:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0aca86538370121077469cb6feaad3ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_type" name="x_982322_technic_2_type" sys_domain="global" view="38d53f8ce412021008dda4ccc40080d7">b5caca138370121077469cb6feaad3cd</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_982322_technic_2_type" sys_domain="global" view="38d53f8ce412021008dda4ccc40080d7">f5caca138370121077469cb6feaad3d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-27 19:52:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-27 19:52:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8aca86538370121077469cb6feaad3d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_982322_technic_2_type" name="x_982322_technic_2_type" sys_domain="global" view="38d53f8ce412021008dda4ccc40080d7">b5caca138370121077469cb6feaad3cd</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_982322_technic_2_type" sys_domain="global" view="38d53f8ce412021008dda4ccc40080d7">caca86538370121077469cb6feaad3c9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-27 19:52:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_982322_technic_2_type</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-27 19:52:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5caca138370121077469cb6feaad3cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_technic_2_type</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b5caca138370121077469cb6feaad3cd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-27 19:52:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">38d53f8ce412021008dda4ccc40080d7</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
