@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>3</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">d35966ff83e1121077469cb6feaad31a</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Liste simple de cas">5c760f5d7393330022139a1ee2f6a767</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-05 18:14:39</sys_created_on>
+        <sys_id>ec6a22738325121077469cb6feaad3e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sp_instance_vlist_ec6a22738325121077469cb6feaad3e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-05 18:14:39</sys_updated_on>
+        <table/>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_vlist>
+    <sys_translated_text action="delete_multiple" query="documentkey=ec6a22738325121077469cb6feaad3e5"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>ec6a22738325121077469cb6feaad3e5</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>fr</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-05 18:14:39</sys_created_on>
+        <sys_id>286a22738325121077469cb6feaad3e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-05 18:14:39</sys_updated_on>
+        <tablename>sp_instance_vlist</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>ec6a22738325121077469cb6feaad3e5</documentkey>
+        <fieldname>title</fieldname>
+        <language>fr</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-05 18:14:39</sys_created_on>
+        <sys_id>ec6a22738325121077469cb6feaad3e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-05 18:14:39</sys_updated_on>
+        <tablename>sp_instance_vlist</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b8c6163783a1121077469cb6feaad343" label="test" max_length="40" name="x_982322_technic_2_test" type="collection">
+        <element label="New Language" max_length="40" name="u_language_2" type="language"/>
+        <element choice="1" label="choix_valeur" max_length="40" name="choix_valeur" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Choix n° 2" sequence="1" value="Choix n° 2"/>
+                <element inactive_on_update="false" label="Choix n° 1" language="fr" sequence="0" value="Choix n°1"/>
+                <element inactive_on_update="false" label="Choix n°3" sequence="2" value="Choix n°3"/>
+                <element inactive_on_update="false" label="Choix n° 1" sequence="0" value="Choix n° 1"/>
+                <element inactive_on_update="false" label="choix n°4" sequence="3" value="choix n°4"/>
+            </choice>
+        </element>
+        <element label="New Language" max_length="40" name="u_language_1" type="language"/>
+    </element>
+</database>
