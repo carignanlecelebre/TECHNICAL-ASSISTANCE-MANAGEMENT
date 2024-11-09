@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d6ad19608339121077469cb6feaad30f" extends="sn_customerservice_task" label="tache_extended" max_length="40" name="x_982322_technic_2_tache_extended" type="collection"/>
+</database>
