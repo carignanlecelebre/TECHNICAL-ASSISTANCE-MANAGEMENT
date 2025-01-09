@@ -4,6 +4,7 @@
         <application_name>tam tcs workshop</application_name>
         <bucket_document_id>f6b0c6e1472102104008d921236d436d</bucket_document_id>
         <bucket_metadata/>
+        <bucket_metadata_customer_override/>
         <bucket_table_name>sp_portal</bucket_table_name>
         <bucket_type>service_portal</bucket_type>
         <enable_unauthenticated_user_tracking>false</enable_unauthenticated_user_tracking>

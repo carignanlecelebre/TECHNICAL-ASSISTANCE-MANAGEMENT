@@ -17,6 +17,7 @@
         <include_target>false</include_target>
         <include_thresholds>false</include_thresholds>
         <include_trends>false</include_trends>
+        <include_widget_notification>true</include_widget_notification>
         <last_updated_on>2024-05-04 08:53:16</last_updated_on>
         <po_project_id_list/>
         <refresh_information>false</refresh_information>

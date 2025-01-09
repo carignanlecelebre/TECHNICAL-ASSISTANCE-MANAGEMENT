@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="DELETE">
+        <action_insert>false</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Targeted Communication" name="Targeted Communication">4a789ea27f3032005f58108c3ffa91af</category>
+        <collection>sn_publications_publication</collection>
+        <condition table="sn_publications_publication">sys_id=ec3b072e93d49210fac2b1dcebba1013^stageCHANGESTOpublished^skip_notifications=false^target_email_templateISNOTEMPTY^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="ec3b072e93d49210fac2b1dcebba1013"/>
+            <item display_value="Published" endquery="false" field="stage" goto="false" newquery="false" operator="CHANGESTO" or="false" value="published"/>
+            <item endquery="false" field="skip_notifications" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="false" field="target_email_template" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<br><hr><br>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name/>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text/>
+        <name>PUB0001001 notification</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields/>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject/>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-31 20:08:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>468b0f2e93d49210fac2b1dcebba1018</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PUB0001001 notification</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sysevent_email_action_468b0f2e93d49210fac2b1dcebba1018</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-31 20:08:35</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Publication Default">1ee246a3d76302004f1e82285e610310</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>319d8f49dbee795805ef172913961922</instance_id>
+        <instance_name>dev211978</instance_name>
+        <name>sysevent_email_action_468b0f2e93d49210fac2b1dcebba1018</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Targeted Communication" name="Targeted Communication"&gt;4a789ea27f3032005f58108c3ffa91af&lt;/category&gt;&lt;collection&gt;sn_publications_publication&lt;/collection&gt;&lt;condition table="sn_publications_publication"&gt;sys_id=ec3b072e93d49210fac2b1dcebba1013^stageCHANGESTOpublished^skip_notifications=false^target_email_templateISNOTEMPTY^EQ&lt;item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="ec3b072e93d49210fac2b1dcebba1013"/&gt;&lt;item display_value="Published" endquery="false" field="stage" goto="false" newquery="false" operator="CHANGESTO" or="false" value="published"/&gt;&lt;item endquery="false" field="skip_notifications" goto="false" newquery="false" operator="=" or="false" value="false"/&gt;&lt;item endquery="false" field="target_email_template" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;br&gt;&lt;hr&gt;&lt;br&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name/&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;engine&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html/&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;PUB0001001 notification&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields/&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject/&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-08-31 20:08:35&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;468b0f2e93d49210fac2b1dcebba1018&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;PUB0001001 notification&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Technical Assistance Management" source="x_982322_technic_2"&gt;0dfe49e69733f190601fb998c253af18&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Technical Assistance Management"&gt;0dfe49e69733f190601fb998c253af18&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_468b0f2e93d49210fac2b1dcebba1018&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-08-31 20:08:35&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template display_value="Publication Default"&gt;1ee246a3d76302004f1e82285e610310&lt;/template&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>660236058</payload_hash>
+        <record_name>PUB0001001 notification</record_name>
+        <reverted_from/>
+        <source>1f278f4393760210fac2b1dcebba106c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-31 20:08:35</sys_created_on>
+        <sys_id>4e8b0f2e93d49210fac2b1dcebba101d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191aa0dc7630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-31 20:08:35</sys_updated_on>
+        <type>Notification</type>
+        <update_guid>028b0f2e9ed49210075f7d8eba93b41d</update_guid>
+        <update_guid_history>028b0f2e9ed49210075f7d8eba93b41d:660236058</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-09 21:07:31</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_email_action">sysevent_email_action</sys_db_object>
+        <sys_id>01191a021b604120801088db3ca19590</sys_id>
+        <sys_metadata>468b0f2e93d49210fac2b1dcebba1018</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PUB0001001 notification</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent display_value="Publication">902a7f48e4d2021008dda4ccc400802b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sysevent_email_action_468b0f2e93d49210fac2b1dcebba1018</sys_update_name>
+        <sys_update_version display_value="sysevent_email_action_468b0f2e93d49210fac2b1dcebba1018">4e8b0f2e93d49210fac2b1dcebba101d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-09 21:07:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

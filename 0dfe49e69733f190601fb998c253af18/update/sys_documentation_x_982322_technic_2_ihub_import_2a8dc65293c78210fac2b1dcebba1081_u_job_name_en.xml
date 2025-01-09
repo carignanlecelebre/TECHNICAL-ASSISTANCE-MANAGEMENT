@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_job_name" label="Job name" language="en" table="x_982322_technic_2_ihub_import_2a8dc65293c78210fac2b1dcebba1081">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_job_name</element>
+            <help/>
+            <hint/>
+            <label>Job name</label>
+            <language>en</language>
+            <name>x_982322_technic_2_ihub_import_2a8dc65293c78210fac2b1dcebba1081</name>
+            <plural>Job names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-29 17:50:17</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Job name</sys_name>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_documentation_x_982322_technic_2_ihub_import_2a8dc65293c78210fac2b1dcebba1081_u_job_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-29 17:50:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

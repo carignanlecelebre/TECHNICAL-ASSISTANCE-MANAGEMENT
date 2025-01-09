@@ -3178,10 +3178,12 @@
     }
 ]</data>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <dispatched_events>1ac08a391b330210db4fed8737df5544,92c08a3978330210dacc86412c0b4441</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <extension_point/>
+        <form_factors>{}</form_factors>
         <handled_events>16c08a397f33021067ffc41cc0cca263,9ac08a39db3302105f57faaf7cb00e63,d2c08a39c83302102dfceee31f5cdc64,dec08a397e3302105598702c768f5564,92c08a3901330210d1c4a70f131c2f65</handled_events>
         <interactions/>
         <interfaces/>
@@ -3589,6 +3591,7 @@
         <root_component_config>{}</root_component_config>
         <root_component_definition/>
         <schema_version>1.0.0</schema_version>
+        <state_persistence_config/>
         <state_properties>[
     {
         "description": "",

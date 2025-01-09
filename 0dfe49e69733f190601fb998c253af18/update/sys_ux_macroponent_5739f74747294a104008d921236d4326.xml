@@ -14145,10 +14145,12 @@
     }
 ]</data>
         <description>This file gets copied when the UIB template for this page is used so it'll just contain presentation logic meaning what components are used and where they're position on the screen along with other CSS. The components in here are empty though and not configured or wired with any events. It will also house the definition and setting of page properties. </description>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <dispatched_events>b6dc7e0a77571110960ced43ba5a9987</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <extension_point/>
+        <form_factors>{}</form_factors>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -14320,6 +14322,7 @@
         <root_component_config>{}</root_component_config>
         <root_component_definition/>
         <schema_version>1.0.0</schema_version>
+        <state_persistence_config/>
         <state_properties>[
     {
         "fieldType": "boolean",

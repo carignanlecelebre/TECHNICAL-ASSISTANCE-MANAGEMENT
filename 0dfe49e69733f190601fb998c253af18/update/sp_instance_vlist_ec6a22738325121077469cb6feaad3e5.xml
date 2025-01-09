@@ -18,7 +18,7 @@
         <size>md</size>
         <sp_column display_value="1">d35966ff83e1121077469cb6feaad31a</sp_column>
         <sp_page/>
-        <sp_widget display_value="Liste simple de cas">5c760f5d7393330022139a1ee2f6a767</sp_widget>
+        <sp_widget display_value="Cases Simple List">5c760f5d7393330022139a1ee2f6a767</sp_widget>
         <sys_class_name>sp_instance_vlist</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-05 18:14:39</sys_created_on>

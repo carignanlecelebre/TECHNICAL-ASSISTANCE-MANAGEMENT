@@ -11,7 +11,7 @@
         <short_description/>
         <size>md</size>
         <sp_column display_value="1">d35966ff83e1121077469cb6feaad31a</sp_column>
-        <sp_widget display_value="Liste de lignes sélectionnables">3fd1aae7b74221102452d9fbce11a9ee</sp_widget>
+        <sp_widget display_value="Selectable Line List">3fd1aae7b74221102452d9fbce11a9ee</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-05 18:13:34</sys_created_on>
