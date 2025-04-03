@@ -29,3 +29,4 @@ If you find yourself unable to import your repository due to the presence of fil
    * Task table schema
    * System Import Sets
    * TAM versus TCS
+   * Model Management
