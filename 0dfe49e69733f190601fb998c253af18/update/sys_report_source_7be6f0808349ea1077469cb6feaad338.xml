@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description>Defects closed</description>
+        <display>Defects closed (Defect)</display>
+        <filter table="rm_defect">active=false<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
+        </filter>
+        <name>Defects closed</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-16 17:53:19</sys_created_on>
+        <sys_id>7be6f0808349ea1077469cb6feaad338</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Defects closed (Defect)</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_report_source_7be6f0808349ea1077469cb6feaad338</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-16 17:53:19</sys_updated_on>
+        <table>rm_defect</table>
+    </sys_report_source>
+</record_update>
