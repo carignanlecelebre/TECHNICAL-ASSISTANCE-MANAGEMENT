@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicators">
+    <pa_indicators action="DELETE">
+        <aggregate>1</aggregate>
+        <allow_multi_element_aggregation>false</allow_multi_element_aggregation>
+        <benchmarking>false</benchmarking>
+        <calendar>standard</calendar>
+        <calendar_freq/>
+        <collect_breakdown_matrix>true</collect_breakdown_matrix>
+        <collect_records>true</collect_records>
+        <conditions/>
+        <contributor/>
+        <cube display_value="defect_created_by_day">30cfb5d483856e1077469cb6feaad3df</cube>
+        <data_source/>
+        <default_aggregate/>
+        <default_chart_type>line</default_chart_type>
+        <description>mois defect is measured daily as unit Months.
+The goal for this indicator is not set.
+It is the count on data source defect_created_by_day, which is using the table: 
+rm_defect
+with the following conditions:
+Active = true .and. Short description contains UAT</description>
+        <direction>2</direction>
+        <display>false</display>
+        <excluded_statistics/>
+        <field/>
+        <forecast_base_periods>2</forecast_base_periods>
+        <forecast_base_start>00000000</forecast_base_start>
+        <forecast_base_type>1</forecast_base_type>
+        <forecast_lower_limit/>
+        <forecast_method>1</forecast_method>
+        <forecast_periods>2</forecast_periods>
+        <forecast_preselect_observations>false</forecast_preselect_observations>
+        <forecast_robust_estimation>false</forecast_robust_estimation>
+        <forecast_upper_limit/>
+        <formula/>
+        <formula_aggregate_whole>false</formula_aggregate_whole>
+        <formula_allow_null>false</formula_allow_null>
+        <frequency>10</frequency>
+        <groups/>
+        <has_managed_indicators>false</has_managed_indicators>
+        <key>false</key>
+        <label/>
+        <linked_indicator/>
+        <live_group_profile/>
+        <managed_breakdown/>
+        <managed_element/>
+        <managing_indicator/>
+        <name>mois defect</name>
+        <order/>
+        <override_periods>false</override_periods>
+        <precision>0</precision>
+        <related_breakdowns>0</related_breakdowns>
+        <related_jobs>1</related_jobs>
+        <render_continuous_lines>false</render_continuous_lines>
+        <role_override>false</role_override>
+        <roles/>
+        <score_periods>-1</score_periods>
+        <scores_format>kMGTPE</scores_format>
+        <scores_modified_at>2025-04-18 20:01:59</scores_modified_at>
+        <script/>
+        <scripted>false</scripted>
+        <show_delta>true</show_delta>
+        <show_realtime_score>false</show_realtime_score>
+        <snapshot_periods>-1</snapshot_periods>
+        <sql_statement/>
+        <sys_class_name>pa_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-18 20:01:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c7a763e48385ee1077469cb6feaad312</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>mois defect</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>pa_indicators_c7a763e48385ee1077469cb6feaad312</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-18 20:06:59</sys_updated_on>
+        <type>1</type>
+        <unit display_value="Months">681465e2d7320100ba986f14ce6103fa</unit>
+        <users/>
+        <value_when_nil>0</value_when_nil>
+        <visible_to>2</visible_to>
+    </pa_indicators>
+    <sys_translated_text action="DELETE" query="documentkey=c7a763e48385ee1077469cb6feaad312"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>319d8f49dbee795805ef172913961922</instance_id>
+        <instance_name>dev211978</instance_name>
+        <name>pa_indicators_c7a763e48385ee1077469cb6feaad312</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicators"><pa_indicators action="INSERT_OR_UPDATE"><aggregate>1</aggregate><allow_multi_element_aggregation>false</allow_multi_element_aggregation><benchmarking>false</benchmarking><calendar>standard</calendar><calendar_freq/><collect_breakdown_matrix>true</collect_breakdown_matrix><collect_records>true</collect_records><conditions/><contributor/><cube display_value="defect_created_by_day">30cfb5d483856e1077469cb6feaad3df</cube><data_source/><default_aggregate/><default_chart_type>line</default_chart_type><description>mois defect is measured daily as unit Months.
+The goal for this indicator is not set.
+It is the count on data source defect_created_by_day, which is using the table: 
+rm_defect
+with the following conditions:
+Active = true .and. Short description contains UAT</description><direction>2</direction><display>false</display><excluded_statistics/><field/><forecast_base_periods>2</forecast_base_periods><forecast_base_start>00000000</forecast_base_start><forecast_base_type>1</forecast_base_type><forecast_lower_limit/><forecast_method>1</forecast_method><forecast_periods>2</forecast_periods><forecast_preselect_observations>false</forecast_preselect_observations><forecast_robust_estimation>false</forecast_robust_estimation><forecast_upper_limit/><formula/><formula_aggregate_whole>false</formula_aggregate_whole><formula_allow_null>false</formula_allow_null><frequency>10</frequency><groups/><has_managed_indicators>false</has_managed_indicators><key>false</key><label/><linked_indicator/><live_group_profile/><managed_breakdown/><managed_element/><managing_indicator/><name>mois defect</name><order/><override_periods>false</override_periods><precision>0</precision><related_breakdowns>0</related_breakdowns><related_jobs>1</related_jobs><render_continuous_lines>false</render_continuous_lines><role_override>false</role_override><roles/><score_periods>-1</score_periods><scores_format>kMGTPE</scores_format><scores_modified_at>2025-04-18 20:01:59</scores_modified_at><script/><scripted>false</scripted><show_delta>true</show_delta><show_realtime_score>false</show_realtime_score><snapshot_periods>-1</snapshot_periods><sql_statement/><sys_class_name>pa_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-18 20:01:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c7a763e48385ee1077469cb6feaad312</sys_id><sys_mod_count>3</sys_mod_count><sys_name>mois defect</sys_name><sys_overrides/><sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package><sys_policy/><sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope><sys_update_name>pa_indicators_c7a763e48385ee1077469cb6feaad312</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-18 20:06:59</sys_updated_on><type>1</type><unit display_value="Months">681465e2d7320100ba986f14ce6103fa</unit><users/><value_when_nil>0</value_when_nil><visible_to>2</visible_to></pa_indicators><sys_translated_text action="delete_multiple" query="documentkey=c7a763e48385ee1077469cb6feaad312"/></record_update>]]></payload>
+        <payload_hash>868975754</payload_hash>
+        <record_name>mois defect</record_name>
+        <reverted_from/>
+        <source>1f278f4393760210fac2b1dcebba106c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-18 20:06:59</sys_created_on>
+        <sys_id>ddd8e3a88385ee1077469cb6feaad362</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1964a82fa8e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-18 20:06:59</sys_updated_on>
+        <type>Indicator</type>
+        <update_guid>55d8e3a8f485ee109bd119d125471062</update_guid>
+        <update_guid_history>55d8e3a8f485ee109bd119d125471062:868975754,17a72f687885ee10cd40f1acf38579d2:-1545687775,4fa72f68c085ee105ecaa781085574b2:-1274337480,43a72f68bf85ee1058f04efceb7236b1:-1381657312,8ba72f688085ee10fb936ceb5eb0b4ae:-1274337480</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="mois defect">b92dedd58301e25077469cb6feaad3da</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-20 19:02:05</sys_created_on>
+        <sys_db_object display_value="" name="pa_indicators">pa_indicators</sys_db_object>
+        <sys_id>243d43648da846489589538fd0fcf840</sys_id>
+        <sys_metadata>c7a763e48385ee1077469cb6feaad312</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mois defect</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>pa_indicators_c7a763e48385ee1077469cb6feaad312</sys_update_name>
+        <sys_update_version display_value="pa_indicators_c7a763e48385ee1077469cb6feaad312">ddd8e3a88385ee1077469cb6feaad362</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-20 19:02:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

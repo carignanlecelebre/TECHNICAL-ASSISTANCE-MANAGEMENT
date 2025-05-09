@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="e797eea9830d265077469cb6feaad36e" sys_domain="global" table="pa_indicators" version="3" view="tam_view">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>c0b96aa9830d265077469cb6feaad3fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <text>${gs.getMessage("pa_indicators_automated.section.properties")}</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>c4b96aa9830d265077469cb6feaad3fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <text>${gs.getMessage("pa_indicators_automated.text.properties")}</text>
+            <type display_value="Text">863e446c0fd30000b12e6903cfe012ce</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>indicator_tag_control.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>c0b9eead830d265077469cb6feaad38e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Indicator Group Control">1d8aa3a8bf00110032a0854b3f073915</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>0cb9eead830d265077469cb6feaad38e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>04b9eead830d265077469cb6feaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>0cb9eead830d265077469cb6feaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c0b96aa9830d265077469cb6feaad3fa</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>04b9eead830d265077469cb6feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c4b96aa9830d265077469cb6feaad3fa</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>0cb9eead830d265077469cb6feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>04b9eead830d265077469cb6feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>calendar</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>0cb9eead830d265077469cb6feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>calendar_freq</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>04b9eead830d265077469cb6feaad392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>frequency</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>0cb9eead830d265077469cb6feaad392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>direction</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>04b9eead830d265077469cb6feaad393</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>linked_indicator</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>0cb9eead830d265077469cb6feaad393</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>key</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>04b9eead830d265077469cb6feaad394</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>0cb9eead830d265077469cb6feaad394</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unit</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>04b9eead830d265077469cb6feaad395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>precision</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>0cb9eead830d265077469cb6feaad395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>scores_format</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>04b9eead830d265077469cb6feaad396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_source.table_name</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 18:05:02</sys_created_on>
+            <sys_id>0cb9eead830d265077469cb6feaad396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="pa_indicators" sys_domain="global" view="2b97eea9830d265077469cb6feaad365">e797eea9830d265077469cb6feaad36e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 18:05:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>pa_indicators</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 17:56:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e797eea9830d265077469cb6feaad36e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>pa_indicators</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_section_e797eea9830d265077469cb6feaad36e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 17:56:00</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="TAM_view" name="tam_view">2b97eea9830d265077469cb6feaad365</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

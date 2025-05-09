@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
+    <sys_report action="DELETE">
+        <active>true</active>
+        <additional_groupby>sys_created_on</additional_groupby>
+        <aggregate>COUNT</aggregate>
+        <aggregation_source>no_override</aggregation_source>
+        <allow_data_label_overlap>false</allow_data_label_overlap>
+        <apply_alias>false</apply_alias>
+        <axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color>
+        <axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color>
+        <bar_unstack>false</bar_unstack>
+        <calendar>04ad17d7531110107c5eddeeff7b120d</calendar>
+        <chart_background_color/>
+        <chart_border_color/>
+        <chart_border_radius>0</chart_border_radius>
+        <chart_border_width>1</chart_border_width>
+        <chart_height>450</chart_height>
+        <chart_size>small</chart_size>
+        <chart_subtitle/>
+        <chart_subtitle_color/>
+        <chart_subtitle_size>14</chart_subtitle_size>
+        <chart_subtitle_style>normal</chart_subtitle_style>
+        <chart_title/>
+        <chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color>
+        <chart_title_size>16</chart_title_size>
+        <chart_title_style>normal</chart_title_style>
+        <chart_title_x_position>0</chart_title_x_position>
+        <chart_title_y_position>0</chart_title_y_position>
+        <chart_width>600</chart_width>
+        <color display_value="Default Color">de699435d7033100b4964ebfae610331</color>
+        <color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette>
+        <colors/>
+        <column/>
+        <compute_percent>aggregate</compute_percent>
+        <content/>
+        <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
+        <custom_chart_size>false</custom_chart_size>
+        <custom_chart_title_position>false</custom_chart_title_position>
+        <custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config>
+        <decimal_precision>2</decimal_precision>
+        <description/>
+        <direction>minimize</direction>
+        <display_column_lines>false</display_column_lines>
+        <display_grid>true</display_grid>
+        <display_row_lines>false</display_row_lines>
+        <donut_width_percent>30</donut_width_percent>
+        <end_time/>
+        <exp_report_attrs>true</exp_report_attrs>
+        <field/>
+        <field_list>number,short_description,priority,state,sys_created_on,closed_at</field_list>
+        <filter table="rm_defect">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </filter>
+        <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
+        <from/>
+        <funnel_neck_percent>30</funnel_neck_percent>
+        <gauge_autoscale>true</gauge_autoscale>
+        <group/>
+        <import_table/>
+        <interval>4d7ddda353f3001076bcddeeff7b12b1</interval>
+        <is_published>false</is_published>
+        <is_real_time>false</is_real_time>
+        <is_scheduled>false</is_scheduled>
+        <legend_align_columns>true</legend_align_columns>
+        <legend_background_color/>
+        <legend_border_color/>
+        <legend_border_radius>0</legend_border_radius>
+        <legend_border_width>1</legend_border_width>
+        <legend_horizontal_alignment>center</legend_horizontal_alignment>
+        <legend_items_left_align>false</legend_items_left_align>
+        <legend_vertical_alignment>bottom</legend_vertical_alignment>
+        <list_ui_view/>
+        <location_field/>
+        <lower_limit/>
+        <map display_value="World">93b8a3a2d7101200bd4a4ebfae61033a</map>
+        <map_source/>
+        <no_bulk_migration>false</no_bulk_migration>
+        <orderby_list/>
+        <other_threshold>-2</other_threshold>
+        <others>true</others>
+        <page_hdrftr/>
+        <pivot_expanded>true</pivot_expanded>
+        <report_drilldown/>
+        <report_source/>
+        <roles/>
+        <row/>
+        <sc_groupby_item_id/>
+        <sc_groupby_variable_id/>
+        <sc_stackby_item_id/>
+        <sc_stackby_variable_id/>
+        <score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color>
+        <series_name_text/>
+        <set_color>one_color</set_color>
+        <show_chart_border>false</show_chart_border>
+        <show_chart_data_label>false</show_chart_data_label>
+        <show_chart_title>report</show_chart_title>
+        <show_chart_total>false</show_chart_total>
+        <show_data_label_position_middle>false</show_data_label_position_middle>
+        <show_empty>false</show_empty>
+        <show_geographical_label>false</show_geographical_label>
+        <show_legend>true</show_legend>
+        <show_legend_border>false</show_legend_border>
+        <show_marker>false</show_marker>
+        <show_zero>false</show_zero>
+        <source_type>table</source_type>
+        <start_time/>
+        <style_config/>
+        <sumfield/>
+        <sys_class_name>sys_report</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 19:48:16</sys_created_on>
+        <sys_id>35ea0c0a830da65077469cb6feaad37b</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>anomalies créés par jour</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>sys_report_35ea0c0a830da65077469cb6feaad37b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 18:04:25</sys_updated_on>
+        <table>rm_defect</table>
+        <title>anomalies créés par jour</title>
+        <title_horizontal_alignment>center</title_horizontal_alignment>
+        <title_vertical_alignment>top</title_vertical_alignment>
+        <to/>
+        <trend_field>sys_created_on</trend_field>
+        <type>spline</type>
+        <upper_limit/>
+        <use_color_heatmap>false</use_color_heatmap>
+        <use_null_in_trend>false</use_null_in_trend>
+        <user>6816f79cc0a8016401c5a33be04be441</user>
+        <x_axis_allow_decimals>true</x_axis_allow_decimals>
+        <x_axis_display_grid>false</x_axis_display_grid>
+        <x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color>
+        <x_axis_grid_dotted>false</x_axis_grid_dotted>
+        <x_axis_grid_width>1</x_axis_grid_width>
+        <x_axis_label_bold>false</x_axis_label_bold>
+        <x_axis_label_color/>
+        <x_axis_label_size>11</x_axis_label_size>
+        <x_axis_label_tilt>0</x_axis_label_tilt>
+        <x_axis_opposite>false</x_axis_opposite>
+        <x_axis_title/>
+        <x_axis_title_bold>true</x_axis_title_bold>
+        <x_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</x_axis_title_color>
+        <x_axis_title_size>12</x_axis_title_size>
+        <y_axis_allow_decimals>true</y_axis_allow_decimals>
+        <y_axis_display_grid>true</y_axis_display_grid>
+        <y_axis_from/>
+        <y_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</y_axis_grid_color>
+        <y_axis_grid_dotted>false</y_axis_grid_dotted>
+        <y_axis_grid_width>1</y_axis_grid_width>
+        <y_axis_label_bold>false</y_axis_label_bold>
+        <y_axis_label_color/>
+        <y_axis_label_size>11</y_axis_label_size>
+        <y_axis_label_tilt>0</y_axis_label_tilt>
+        <y_axis_opposite>false</y_axis_opposite>
+        <y_axis_title/>
+        <y_axis_title_bold>true</y_axis_title_bold>
+        <y_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</y_axis_title_color>
+        <y_axis_title_size>12</y_axis_title_size>
+        <y_axis_to/>
+    </sys_report>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>319d8f49dbee795805ef172913961922</instance_id>
+        <instance_name>dev211978</instance_name>
+        <name>sys_report_35ea0c0a830da65077469cb6feaad37b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report"><sys_report action="INSERT_OR_UPDATE"><active>true</active><additional_groupby>sys_created_on</additional_groupby><aggregate>COUNT</aggregate><aggregation_source>no_override</aggregation_source><allow_data_label_overlap>false</allow_data_label_overlap><apply_alias>false</apply_alias><axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color><axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color><bar_unstack>false</bar_unstack><calendar>04ad17d7531110107c5eddeeff7b120d</calendar><chart_background_color/><chart_border_color/><chart_border_radius>0</chart_border_radius><chart_border_width>1</chart_border_width><chart_height>450</chart_height><chart_size>small</chart_size><chart_subtitle/><chart_subtitle_color/><chart_subtitle_size>14</chart_subtitle_size><chart_subtitle_style>normal</chart_subtitle_style><chart_title/><chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color><chart_title_size>16</chart_title_size><chart_title_style>normal</chart_title_style><chart_title_x_position>0</chart_title_x_position><chart_title_y_position>0</chart_title_y_position><chart_width>600</chart_width><color display_value="Default Color">de699435d7033100b4964ebfae610331</color><color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette><colors/><column/><compute_percent>aggregate</compute_percent><content/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><custom_chart_size>false</custom_chart_size><custom_chart_title_position>false</custom_chart_title_position><custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config><decimal_precision>2</decimal_precision><description/><direction>minimize</direction><display_column_lines>false</display_column_lines><display_grid>true</display_grid><display_row_lines>false</display_row_lines><donut_width_percent>30</donut_width_percent><end_time/><exp_report_attrs>true</exp_report_attrs><field/><field_list>number,short_description,priority,state,sys_created_on,closed_at</field_list><filter table="rm_defect">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/></filter><formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration><from/><funnel_neck_percent>30</funnel_neck_percent><gauge_autoscale>true</gauge_autoscale><group/><import_table/><interval>4d7ddda353f3001076bcddeeff7b12b1</interval><is_published>false</is_published><is_real_time>false</is_real_time><is_scheduled>false</is_scheduled><legend_align_columns>true</legend_align_columns><legend_background_color/><legend_border_color/><legend_border_radius>0</legend_border_radius><legend_border_width>1</legend_border_width><legend_horizontal_alignment>center</legend_horizontal_alignment><legend_items_left_align>false</legend_items_left_align><legend_vertical_alignment>bottom</legend_vertical_alignment><list_ui_view/><location_field/><lower_limit/><map display_value="World">93b8a3a2d7101200bd4a4ebfae61033a</map><map_source/><no_bulk_migration>false</no_bulk_migration><orderby_list/><other_threshold>-2</other_threshold><others>true</others><page_hdrftr/><pivot_expanded>true</pivot_expanded><report_drilldown/><report_source/><roles/><row/><sc_groupby_item_id/><sc_groupby_variable_id/><sc_stackby_item_id/><sc_stackby_variable_id/><score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color><series_name_text/><set_color>one_color</set_color><show_chart_border>false</show_chart_border><show_chart_data_label>false</show_chart_data_label><show_chart_title>report</show_chart_title><show_chart_total>false</show_chart_total><show_data_label_position_middle>false</show_data_label_position_middle><show_empty>false</show_empty><show_geographical_label>false</show_geographical_label><show_legend>true</show_legend><show_legend_border>false</show_legend_border><show_marker>false</show_marker><show_zero>false</show_zero><source_type>table</source_type><start_time/><style_config/><sumfield/><sys_class_name>sys_report</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 19:48:16</sys_created_on><sys_id>35ea0c0a830da65077469cb6feaad37b</sys_id><sys_mod_count>16</sys_mod_count><sys_name>anomalies créés par jour</sys_name><sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package><sys_policy/><sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope><sys_update_name>sys_report_35ea0c0a830da65077469cb6feaad37b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 18:04:25</sys_updated_on><table>rm_defect</table><title>anomalies créés par jour</title><title_horizontal_alignment>center</title_horizontal_alignment><title_vertical_alignment>top</title_vertical_alignment><to/><trend_field>sys_created_on</trend_field><type>spline</type><upper_limit/><use_color_heatmap>false</use_color_heatmap><use_null_in_trend>false</use_null_in_trend><user>6816f79cc0a8016401c5a33be04be441</user><x_axis_allow_decimals>true</x_axis_allow_decimals><x_axis_display_grid>false</x_axis_display_grid><x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color><x_axis_grid_dotted>false</x_axis_grid_dotted><x_axis_grid_width>1</x_axis_grid_width><x_axis_label_bold>false</x_axis_label_bold><x_axis_label_color/><x_axis_label_size>11</x_axis_label_size><x_axis_label_tilt>0</x_axis_label_tilt><x_axis_opposite>false</x_axis_opposite><x_axis_title/><x_axis_title_bold>true</x_axis_title_bold><x_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</x_axis_title_color><x_axis_title_size>12</x_axis_title_size><y_axis_allow_decimals>true</y_axis_allow_decimals><y_axis_display_grid>true</y_axis_display_grid><y_axis_from/><y_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</y_axis_grid_color><y_axis_grid_dotted>false</y_axis_grid_dotted><y_axis_grid_width>1</y_axis_grid_width><y_axis_label_bold>false</y_axis_label_bold><y_axis_label_color/><y_axis_label_size>11</y_axis_label_size><y_axis_label_tilt>0</y_axis_label_tilt><y_axis_opposite>false</y_axis_opposite><y_axis_title/><y_axis_title_bold>true</y_axis_title_bold><y_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</y_axis_title_color><y_axis_title_size>12</y_axis_title_size><y_axis_to/></sys_report></record_update>]]></payload>
+        <payload_hash>175809810</payload_hash>
+        <record_name>anomalies créés par jour</record_name>
+        <reverted_from/>
+        <source>1f278f4393760210fac2b1dcebba106c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 18:04:25</sys_created_on>
+        <sys_id>a2bcb85e83c52a5077469cb6feaad366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19663d28f0d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 18:04:25</sys_updated_on>
+        <type>Report</type>
+        <update_guid>26bcb85e87c52a505f053fb15fe93365</update_guid>
+        <update_guid_history>26bcb85e87c52a505f053fb15fe93365:175809810,a46350c6b84da650080e32e894207952:1434108484,1bff8442ff4da6506d3453d87fb4f819:-256339473,bedf80026f4da65007f3b97b639bfac6:538344434,c88f844e920da6500db9b769ad8bfccf:-2058278195,1b6f04020d4da6502dd0159ad0a7ded9:1031646654,a79ecc4a6c0da650e56f34b6cac0bb18:-256339473,cb8e0002204da650cbf3f8deed7f0e4a:-831037182,7abd488eb70da650b3bc9a9a7884ddd6:-2041464653,a57d400e680da650f1b943652ea3b433:-968379562,2f9c844e6a0da650cc48a93f43e816c7:-2041464653,7ecb400e3a0da65058d60f6338bcdf2b:1426421886,4c4b4c0a440da650fcccf91edbb3154d:-1647837013,4aeacc8a730da6505904b9144ca2c3a8:668105892</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="anomalies créés par jour">cc18d19683892a5077469cb6feaad3e8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 20:03:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_report">sys_report</sys_db_object>
+        <sys_id>392ce933afb043c8970eb5a107e6d231</sys_id>
+        <sys_metadata>35ea0c0a830da65077469cb6feaad37b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>anomalies créés par jour</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent display_value="Rm Defect">ec6b35d793b64210fac2b1dcebba10b3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>sys_report_35ea0c0a830da65077469cb6feaad37b</sys_update_name>
+        <sys_update_version display_value="sys_report_35ea0c0a830da65077469cb6feaad37b">a2bcb85e83c52a5077469cb6feaad366</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 20:03:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

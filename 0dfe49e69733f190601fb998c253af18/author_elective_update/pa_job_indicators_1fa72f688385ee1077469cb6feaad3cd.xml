@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>temporary job for collecting mois defect - mois defect</display>
+        <indicator display_value="mois defect">c7a763e48385ee1077469cb6feaad312</indicator>
+        <job display_value="temporary job for collecting mois defect">9fa727a48385ee1077469cb6feaad3a1</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-18 20:01:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1fa72f688385ee1077469cb6feaad3cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mois defect.temporary job for collecting mois defect</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_update_name>pa_job_indicators_1fa72f688385ee1077469cb6feaad3cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-18 20:01:56</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</application>
+        <file_path/>
+        <instance_id>319d8f49dbee795805ef172913961922</instance_id>
+        <instance_name>dev211978</instance_name>
+        <name>pa_job_indicators_1fa72f688385ee1077469cb6feaad3cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>1</collect><collect_indicator>true</collect_indicator><display>temporary job for collecting mois defect - mois defect</display><indicator display_value="mois defect">c7a763e48385ee1077469cb6feaad312</indicator><job display_value="temporary job for collecting mois defect">9fa727a48385ee1077469cb6feaad3a1</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-18 20:01:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1fa72f688385ee1077469cb6feaad3cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>mois defect.temporary job for collecting mois defect</sys_name><sys_overrides/><sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package><sys_policy/><sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope><sys_update_name>pa_job_indicators_1fa72f688385ee1077469cb6feaad3cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-18 20:01:56</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>-1407078265</payload_hash>
+        <record_name>temporary job for collecting mois defect - mois defect</record_name>
+        <reverted_from/>
+        <source>1f278f4393760210fac2b1dcebba106c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-18 20:01:56</sys_created_on>
+        <sys_id>1fa72f688385ee1077469cb6feaad3d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1964a7e5abe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-18 20:01:56</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>13a72f68ad85ee106fbd537a44980bd4</update_guid>
+        <update_guid_history>13a72f68ad85ee106fbd537a44980bd4:-1407078265</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="temporary job for collecting mois defect - ">352dedd58301e25077469cb6feaad3ec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-20 19:02:04</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>0ed9b2d6c7a04bd883f1666e88a6f0c4</sys_id>
+        <sys_metadata>1fa72f688385ee1077469cb6feaad3cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mois defect.temporary job for collecting mois defect</sys_name>
+        <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+        <sys_parent display_value="temporary job for collecting mois defect">9fa727a48385ee1077469cb6feaad3a1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+        <sys_scope_delete display_value="">e13ddd0218004bf182994ad8914299a9</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_1fa72f688385ee1077469cb6feaad3cd</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_1fa72f688385ee1077469cb6feaad3cd">1fa72f688385ee1077469cb6feaad3d4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-20 19:02:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

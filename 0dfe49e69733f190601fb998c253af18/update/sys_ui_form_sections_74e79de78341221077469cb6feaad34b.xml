@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="74e79de78341221077469cb6feaad34b" sys_domain="global" table="sn_ent_transportation_asset" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 17:15:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1e7152b8341221077469cb6feaad3cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_ent_transportation_asset" name="sn_ent_transportation_asset" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">74e79de78341221077469cb6feaad34b</sys_ui_form>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="sn_ent_transportation_asset" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">cde7152b8341221077469cb6feaad3bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 17:15:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 17:15:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9e7152b8341221077469cb6feaad3bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_ent_transportation_asset" name="sn_ent_transportation_asset" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">74e79de78341221077469cb6feaad34b</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="sn_ent_transportation_asset" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8de7152b8341221077469cb6feaad3b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 17:15:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 17:15:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5e7152b8341221077469cb6feaad3b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_ent_transportation_asset" name="sn_ent_transportation_asset" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">74e79de78341221077469cb6feaad34b</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="sn_ent_transportation_asset" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">4de79de78341221077469cb6feaad34d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 17:15:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 17:15:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45e7152b8341221077469cb6feaad3d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_ent_transportation_asset" name="sn_ent_transportation_asset" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">74e79de78341221077469cb6feaad34b</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="sn_ent_transportation_asset" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">c5e7152b8341221077469cb6feaad3cc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 17:15:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 17:15:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89e7152b8341221077469cb6feaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_ent_transportation_asset" name="sn_ent_transportation_asset" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">74e79de78341221077469cb6feaad34b</sys_ui_form>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="sn_ent_transportation_asset" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">c9e7152b8341221077469cb6feaad3b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 17:15:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_ent_transportation_asset</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 17:15:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74e79de78341221077469cb6feaad34b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_ent_transportation_asset</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_form_sections_74e79de78341221077469cb6feaad34b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 17:15:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sn_ent_transportation_model" version="2" view="tam_vin">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>ada471a38305221077469cb6feaad3ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manufacturer</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>a1a471a38305221077469cb6feaad3ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>model_number</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>a5a471a38305221077469cb6feaad3ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cmdb_model_category</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>a9a471a38305221077469cb6feaad3ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>model_year</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>ada471a38305221077469cb6feaad3ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>classification.cmdb_model_category</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>a1a471a38305221077469cb6feaad3ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>energy_star</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>a5a471a38305221077469cb6feaad3ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>energy_use</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>a9a471a38305221077469cb6feaad3ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>engine_size</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>ada471a38305221077469cb6feaad3ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>engine_type</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>a1a471a38305221077469cb6feaad3f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>engine_power</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>a5a471a38305221077469cb6feaad3f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fuel_type</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>a9a471a38305221077469cb6feaad3f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>full_name</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>ada471a38305221077469cb6feaad3f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manufacturer.manufacturer</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>a1a471a38305221077469cb6feaad3f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manufacturer.name</element>
+            <list_id display_value="sn_ent_transportation_model" element="NULL" name="sn_ent_transportation_model" parent="NULL" relationship="NULL" sys_domain="global" view="31e17d2f83c1221077469cb6feaad376">25a471a38305221077469cb6feaad3ed</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_id>a5a471a38305221077469cb6feaad3f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sn_ent_transportation_model</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-27 19:21:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25a471a38305221077469cb6feaad3ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_ent_transportation_model</sys_name>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_list_sn_ent_transportation_model_tam_vin</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-27 19:21:10</sys_updated_on>
+            <sys_user/>
+            <view display_value="TAM_VIN" name="tam_vin">31e17d2f83c1221077469cb6feaad376</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

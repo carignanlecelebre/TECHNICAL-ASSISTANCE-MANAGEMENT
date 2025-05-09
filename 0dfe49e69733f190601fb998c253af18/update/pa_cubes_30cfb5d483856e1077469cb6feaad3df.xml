@@ -3,8 +3,7 @@
         <benchmarking>false</benchmarking>
         <calendar>standard</calendar>
         <calendar_freq/>
-        <conditions table="rm_defect">active=true^short_descriptionLIKEUAT<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item endquery="false" field="short_description" goto="false" newquery="false" operator="LIKE" or="false" value="UAT"/>
+        <conditions table="rm_defect">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
         </conditions>
         <description/>
         <facts_table>rm_defect</facts_table>
@@ -16,14 +15,14 @@
         <name>defect_created_by_day</name>
         <override_record_collection>false</override_record_collection>
         <report_source display_value="Defects opened (Defect)">426634808349ea1077469cb6feaad3e7</report_source>
-        <report_source_updated_at>2025-04-18 00:49:45</report_source_updated_at>
+        <report_source_updated_at>2025-04-22 00:11:08</report_source_updated_at>
         <sys_class_name>pa_cubes</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-04-17 17:51:43</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>30cfb5d483856e1077469cb6feaad3df</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>defect_created_by_day</sys_name>
         <sys_overrides/>
         <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
@@ -31,7 +30,7 @@
         <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
         <sys_update_name>pa_cubes_30cfb5d483856e1077469cb6feaad3df</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-17 17:58:43</sys_updated_on>
+        <sys_updated_on>2025-04-21 17:13:57</sys_updated_on>
     </pa_cubes>
     <sys_translated_text action="delete_multiple" query="documentkey=30cfb5d483856e1077469cb6feaad3df"/>
 </record_update>
