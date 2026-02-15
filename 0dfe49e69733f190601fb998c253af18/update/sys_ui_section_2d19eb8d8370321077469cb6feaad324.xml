@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2d19eb8d8370321077469cb6feaad324" sys_domain="global" table="x_982322_tam_ver_0_x_fich_tam_did" version="3" view="workspace-technical-assistance-management-3">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>3119eb8d8370321077469cb6feaad39d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>b519eb8d8370321077469cb6feaad3b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>b519eb8d8370321077469cb6feaad39e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>7119eb8d8370321077469cb6feaad3b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>3919eb8d8370321077469cb6feaad3ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contract</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>3d19eb8d8370321077469cb6feaad3b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entitlement</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>f119eb8d8370321077469cb6feaad3ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>f519eb8d8370321077469cb6feaad3b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>bd19eb8d8370321077469cb6feaad3ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>b119eb8d8370321077469cb6feaad3b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>7919eb8d8370321077469cb6feaad3ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>7d19eb8d8370321077469cb6feaad3b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>3519eb8d8370321077469cb6feaad3ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>3919eb8d8370321077469cb6feaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>fd19eb8d8370321077469cb6feaad3ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>f119eb8d8370321077469cb6feaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>b919eb8d8370321077469cb6feaad3af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>bd19eb8d8370321077469cb6feaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>7519eb8d8370321077469cb6feaad3b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>f519eb8d8370321077469cb6feaad3d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>3119eb8d8370321077469cb6feaad3b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>follow_the_sun</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>a119eb8d8370321077469cb6feaad351</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>anomaly_detected_during_pdi_or_gct</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>2519eb8d8370321077469cb6feaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>body_code</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>6d19eb8d8370321077469cb6feaad351</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>connector_name</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>ed19eb8d8370321077469cb6feaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>connector_number</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>2919eb8d8370321077469cb6feaad352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>connector_option</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>a919eb8d8370321077469cb6feaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ctc_status</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>e119eb8d8370321077469cb6feaad353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dam</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>e119eb8d8370321077469cb6feaad348</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer_concern</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>ad19eb8d8370321077469cb6feaad353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>damage_and_associated_risk</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>ad19eb8d8370321077469cb6feaad348</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_previous_repair</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>ad19eb8d8370321077469cb6feaad379</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_vehicle_return_to_customer</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>6919eb8d8370321077469cb6feaad349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>document_link</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>6919eb8d8370321077469cb6feaad37a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dtc</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>2519eb8d8370321077469cb6feaad34a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dtc_full_code</element>
+            <position>35</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>2519eb8d8370321077469cb6feaad37b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dtc_sub_code</element>
+            <position>36</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>ed19eb8d8370321077469cb6feaad34a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_of_warranty_mileage</element>
+            <position>37</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>ed19eb8d8370321077469cb6feaad37b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engine</element>
+            <position>38</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>a919eb8d8370321077469cb6feaad34b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>harness_family</element>
+            <position>39</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>a919eb8d8370321077469cb6feaad37c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hidden_variable</element>
+            <position>40</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>6519eb8d8370321077469cb6feaad34c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incident_reproduced_by_technician</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>6519eb8d8370321077469cb6feaad37d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initiated_from_preapproval</element>
+            <position>42</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>2119eb8d8370321077469cb6feaad34d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <position>43</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>2119eb8d8370321077469cb6feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>labor_operation_code</element>
+            <position>44</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>e919eb8d8370321077469cb6feaad34d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lesson_learned</element>
+            <position>45</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>e919eb8d8370321077469cb6feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>license_plate</element>
+            <position>46</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>a519eb8d8370321077469cb6feaad34e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_year</element>
+            <position>47</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>a519eb8d8370321077469cb6feaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>month_in_service</element>
+            <position>48</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>6119eb8d8370321077469cb6feaad34f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_resubmissions</element>
+            <position>49</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>6119eb8d8370321077469cb6feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>occurrence_timeframe</element>
+            <position>50</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>2d19eb8d8370321077469cb6feaad34f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>odometer</element>
+            <position>51</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>2d19eb8d8370321077469cb6feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>operating_as_designed</element>
+            <position>52</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>e519eb8d8370321077469cb6feaad350</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>part_number</element>
+            <position>53</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>e519eb8d8370321077469cb6feaad381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plant_code</element>
+            <position>54</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>a119eb8d8370321077469cb6feaad382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plant_description</element>
+            <position>55</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>b119eb8d8370321077469cb6feaad396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>region_business_center</element>
+            <position>56</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>6d19eb8d8370321077469cb6feaad382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reoccurence_repeat_repair</element>
+            <position>57</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>7d19eb8d8370321077469cb6feaad396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>repair_kit_part_number</element>
+            <position>58</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>2919eb8d8370321077469cb6feaad383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>repair_line_item</element>
+            <position>59</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>3919eb8d8370321077469cb6feaad397</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>repair_order</element>
+            <position>60</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>e119eb8d8370321077469cb6feaad384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>repair_orde0</element>
+            <position>61</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>f119eb8d8370321077469cb6feaad398</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_action_number</element>
+            <position>62</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>ad19eb8d8370321077469cb6feaad384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source</element>
+            <position>63</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>bd19eb8d8370321077469cb6feaad398</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dealer_status</element>
+            <position>64</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>6919eb8d8370321077469cb6feaad385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_age</element>
+            <position>65</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>7919eb8d8370321077469cb6feaad399</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_assembly_start_date</element>
+            <position>66</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>e919eb8d8370321077469cb6feaad392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_info</element>
+            <position>67</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>3519eb8d8370321077469cb6feaad39a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_plant_location</element>
+            <position>68</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>a519eb8d8370321077469cb6feaad393</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_towed</element>
+            <position>69</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>fd19eb8d8370321077469cb6feaad39a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vin</element>
+            <position>70</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>6119eb8d8370321077469cb6feaad394</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vor</element>
+            <position>71</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>b919eb8d8370321077469cb6feaad39b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>warranty_claims</element>
+            <position>72</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>2d19eb8d8370321077469cb6feaad394</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>warranty_end_date</element>
+            <position>73</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>7519eb8d8370321077469cb6feaad39c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>warranty_start_date</element>
+            <position>74</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>f519eb8d8370321077469cb6feaad395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>availability</element>
+            <position>75</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>6919eb8d8370321077469cb6feaad32b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>brand</element>
+            <position>76</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>f919eb8d8370321077469cb6feaad39d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>causal_part</element>
+            <position>77</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_id>f919eb8d8370321077469cb6feaad3b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_tam_ver_0_x_fich_tam_did" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">2d19eb8d8370321077469cb6feaad324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_982322_tam_ver_0_x_fich_tam_did</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d19eb8d8370321077469cb6feaad324</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_tam_ver_0_x_fich_tam_did</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_section_2d19eb8d8370321077469cb6feaad324</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:32</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Technical Assistance Management 3" name="workspace-technical-assistance-management-3">7009ef4d937032106e66c8c6ce1539af</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

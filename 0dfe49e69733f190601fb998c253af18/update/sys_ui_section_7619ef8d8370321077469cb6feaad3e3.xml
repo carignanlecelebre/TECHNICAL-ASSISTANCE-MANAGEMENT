@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="7619ef8d8370321077469cb6feaad3e3" sys_domain="global" table="x_982322_technic_2_dealer_networks" version="3" view="workspace-technical-assistance-management-3">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>7e1963cd8370321077469cb6feaad34f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_client_hierarchie_type_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>3a1963cd8370321077469cb6feaad350</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_main_sincom</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>b21963cd8370321077469cb6feaad34f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_client_code_postal</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>f21963cd8370321077469cb6feaad351</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>f21963cd8370321077469cb6feaad329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_client_langue_id</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>721963cd8370321077469cb6feaad330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_client_filiale</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>be1963cd8370321077469cb6feaad329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_pays_id</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>3e1963cd8370321077469cb6feaad330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>7a1963cd8370321077469cb6feaad32a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_client_adresse</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>f61963cd8370321077469cb6feaad331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>361963cd8370321077469cb6feaad32b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>n_client_id</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>b21963cd8370321077469cb6feaad332</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_client_st_id</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>fe1963cd8370321077469cb6feaad32b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>7e1963cd8370321077469cb6feaad332</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_oic_code</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>ba1963cd8370321077469cb6feaad32c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_market_code</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>3a1963cd8370321077469cb6feaad333</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>761963cd8370321077469cb6feaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_client_ville</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>f21963cd8370321077469cb6feaad334</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>321963cd8370321077469cb6feaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_client_raisonsociale</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>be1963cd8370321077469cb6feaad334</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>fa1963cd8370321077469cb6feaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c_marque_id</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>f61963cd8370321077469cb6feaad34e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_id>b61963cd8370321077469cb6feaad32f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_982322_technic_2_dealer_networks" sys_domain="global" view="7009ef4d937032106e66c8c6ce1539af">7619ef8d8370321077469cb6feaad3e3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_982322_technic_2_dealer_networks</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-23 19:20:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7619ef8d8370321077469cb6feaad3e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_982322_technic_2_dealer_networks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Technical Assistance Management" source="x_982322_technic_2">0dfe49e69733f190601fb998c253af18</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technical Assistance Management">0dfe49e69733f190601fb998c253af18</sys_scope>
+            <sys_update_name>sys_ui_section_7619ef8d8370321077469cb6feaad3e3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-23 19:20:37</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Technical Assistance Management 3" name="workspace-technical-assistance-management-3">7009ef4d937032106e66c8c6ce1539af</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
